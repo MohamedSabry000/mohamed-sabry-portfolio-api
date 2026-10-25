@@ -2,7 +2,7 @@
 import bcrypt from 'bcryptjs'
 import type { NextFunction, Request, Response } from 'express'
 import jwt from 'jsonwebtoken'
-import { AdminModel } from './db.ts'
+import { AdminModel } from './db.js'
 
 const JWT_SECRET = process.env.JWT_SECRET || 'dev-only-secret-change-me'
 const TOKEN_TTL = '8h'

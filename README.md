@@ -91,29 +91,40 @@ Authenticated requests send `Authorization: Bearer <token>` from `POST /api/auth
 
 ```
 src/
-  index.ts          Express app: CORS, health, assistant/chat endpoints, startup
+  app.ts            Express app: CORS, lazy DB connection, health, assistant/chat endpoints
+  index.ts          Local / long-running server (app.listen)
+  env.ts            Loads .env when present
   routes.ts         REST routes (auth, portfolio CRUD, messages, chat logs)
   portfolioStore.ts One Mongoose model per portfolio collection + seeding/import
   db.ts             MongoDB connection, message/chat-log/admin models
   auth.ts           Login, JWT middleware, credential changes
   sanity.ts         Reads assistant content from Sanity, logs chats
   sanityShared.ts   GROQ query and normalisation shared with the front end
+api/index.ts        Vercel function entry
 seed/portfolio.json Initial portfolio content
+vercel.json         Vercel routing and function config
 render.yaml         Render Blueprint
 ```
 
 ## Deploy
 
-GitHub Pages only serves static files, so this API needs a Node host. Any host that runs `npm start` works.
+GitHub Pages only serves static files, so this API needs a Node host.
 
-**Render (free tier):** New → Blueprint → pick this repo. `render.yaml` sets the build (`npm ci`), start (`npm start`) and health check. Fill in `MONGODB_URI` and `ADMIN_PASSWORD`; `JWT_SECRET` is generated. The free service sleeps when idle, so the first request takes about 30–60 s.
+### Vercel (recommended)
 
-**Railway:** New project → Deploy from GitHub repo, then add the same variables.
+The Express app runs as one Vercel function: `api/index.ts` exports the app from `src/app.ts`, and `vercel.json` sends every path to it and bundles `seed/`. `src/index.ts` (with `app.listen`) is only for local/long-running hosts.
 
-Then:
+1. Vercel → Add New → Project → import this repo. Leave Framework Preset as **Other** and build settings empty.
+2. Environment variables:
+   - `MONGODB_URI`, `JWT_SECRET` (long random string), `ADMIN_USERNAME`, `ADMIN_PASSWORD`
+   - `CORS_ORIGINS` = the front end's domain(s), comma-separated. `*` matches one subdomain label, e.g. `https://mohamed-sabry-portfolio.vercel.app,https://*.vercel.app`
+   - optional: `SANITY_PROJECT_ID=rdln7m0z`, `SANITY_DATASET=production`, `OPENAI_API_KEY`
+3. MongoDB Atlas → Network Access: allow `0.0.0.0/0` (Vercel has no fixed IPs).
+4. Deploy, then check `https://<api>.vercel.app/api/health` shows `"database": true`.
+5. In the front-end project set `VITE_API_URL=https://<api>.vercel.app` and redeploy it.
 
-1. In MongoDB Atlas → Network Access, allow the host (or `0.0.0.0/0`).
-2. Build the front end with the API URL and redeploy GitHub Pages:
-   ```bash
-   VITE_API_URL=https://<your-api-host> npm run build:pages
-   ```
+The MongoDB connection is opened on the first request and reused while the function instance stays warm. The chat rate limit is in memory, so on Vercel it applies per instance.
+
+### Render / Railway
+
+Render: New → Blueprint → pick this repo (`render.yaml` sets `npm ci`, `npm start` and the health check). Railway: deploy from the GitHub repo with start command `npm start`. Set the same variables, and allow the host in Atlas → Network Access.

@@ -2,8 +2,8 @@
 import { randomUUID } from 'node:crypto'
 import { Router, type Request, type Response } from 'express'
 import { isValidObjectId } from 'mongoose'
-import { login, requireAdmin, updateCredentials, type AuthedRequest } from './auth.ts'
-import { ChatLogModel, isDbConnected, MessageModel } from './db.ts'
+import { login, requireAdmin, updateCredentials, type AuthedRequest } from './auth.js'
+import { ChatLogModel, isDbConnected, MessageModel } from './db.js'
 import {
   deleteItem,
   getItem,
@@ -17,7 +17,7 @@ import {
   setSiteValue,
   SITE_KEYS,
   type CollectionName,
-} from './portfolioStore.ts'
+} from './portfolioStore.js'
 
 export const api = Router()
 

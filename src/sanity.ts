@@ -1,6 +1,6 @@
 import { createClient, type SanityClient } from '@sanity/client'
 
-import { ASSISTANT_QUERY, normalizeContent, type SanityKnowledgeItem, type SanitySettings } from './sanityShared.ts'
+import { ASSISTANT_QUERY, normalizeContent, type SanityKnowledgeItem, type SanitySettings } from './sanityShared.js'
 
 export { normalizeContent }
 export type SanityKnowledge = SanityKnowledgeItem

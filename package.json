@@ -9,7 +9,7 @@
     "dev": "tsx watch src/index.ts",
     "start": "tsx src/index.ts",
     "typecheck": "tsc --noEmit",
-    "lint": "oxlint src",
+    "lint": "oxlint src api",
     "test": "vitest run"
   },
   "dependencies": {

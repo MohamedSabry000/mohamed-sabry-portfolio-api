@@ -2,7 +2,7 @@
 // still runs and the front end falls back to its built-in content.
 import bcrypt from 'bcryptjs'
 import mongoose, { Schema } from 'mongoose'
-import { seedPortfolioIfEmpty } from './portfolioStore.ts'
+import { seedPortfolioIfEmpty } from './portfolioStore.js'
 
 const messageSchema = new Schema(
   {

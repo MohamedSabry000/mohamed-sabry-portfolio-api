@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { buildSanityPrompt, getAssistantContent, normalizeContent } from './sanity.ts'
+import { buildSanityPrompt, getAssistantContent, normalizeContent } from './sanity.js'
 
 describe('server Sanity integration', () => {
   it('normalizes and filters GROQ results', () => {
