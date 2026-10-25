@@ -1,0 +1,1092 @@
+{
+  "profile": {
+    "name": {
+      "en": "Mohamed Sabry",
+      "ar": "محمد صبري"
+    },
+    "title": {
+      "en": "Software Engineer (Front-End)",
+      "ar": "مهندس برمجيات (واجهات أمامية)"
+    },
+    "tagline": {
+      "en": "I turn UI/UX designs into fast, accessible and bilingual web & mobile experiences.",
+      "ar": "أحوّل تصاميم واجهات المستخدم إلى تجارب ويب وجوال سريعة وسهلة الوصول وثنائية اللغة."
+    },
+    "summary": {
+      "en": "Front-end software engineer with 7 years of web development experience, including 3+ years at Naseej building the Medad platform products (TMP, CMP and SEP) for web and mobile. I turn UI/UX designs into fast, accessible and responsive interfaces in React.js and TypeScript, deliver bilingual Arabic (RTL) and English products, and work across the stack with Node.js and REST APIs.",
+      "ar": "مهندس برمجيات واجهات أمامية بخبرة 7 سنوات في تطوير الويب، منها أكثر من 3 سنوات في نسيج لبناء منتجات منصة مداد (TMP و CMP و SEP) للويب والجوال. أحوّل تصاميم UI/UX إلى واجهات سريعة ومتجاوبة وسهلة الوصول باستخدام React.js و TypeScript، وأقدّم منتجات ثنائية اللغة بالعربية (RTL) والإنجليزية، وأعمل عبر كامل الحزمة باستخدام Node.js وواجهات REST."
+    },
+    "location": {
+      "en": "Cairo, Egypt",
+      "ar": "القاهرة، مصر"
+    },
+    "email": "mohamed.sabry.ahmed000@gmail.com",
+    "phones": [
+      "+20 109 183 7581",
+      "+20 102 368 7024"
+    ],
+    "linkedin": "https://linkedin.com/in/mohamedsabry123",
+    "github": "https://bit.ly/3yKLRP8",
+    "website": "https://bit.ly/mo-sabry",
+    "avatarUrl": "",
+    "cvUrl": "/Mohamed_Sabry_Software_Engineer_CV.pdf",
+    "yearsExperience": 7,
+    "projectsCount": 15,
+    "available": true
+  },
+  "experiences": [
+    {
+      "id": "exp_naseej",
+      "company": {
+        "en": "Naseej",
+        "ar": "نسيج"
+      },
+      "role": {
+        "en": "Software Engineer (Front-End)",
+        "ar": "مهندس برمجيات (واجهات أمامية)"
+      },
+      "start": "2023-04",
+      "end": "present",
+      "description": {
+        "en": "Building the Medad platform products — TMP (Training Management Platform), CMP and SEP — for web and mobile: training-needs assessment, learner and instructor portals, and white-labelled iOS and Android apps in Arabic (RTL) and English.",
+        "ar": "بناء منتجات منصة مداد — TMP (منصة إدارة التدريب) و CMP و SEP — للويب والجوال: تقييم الاحتياجات التدريبية، بوابات المتدربين والمدربين، وتطبيقات iOS و Android بعلامات تجارية مخصصة بالعربية (RTL) والإنجليزية."
+      },
+      "link": "https://naseej.com/",
+      "tech": [
+        "React.js",
+        "TypeScript",
+        "Ant Design",
+        "React Query",
+        "Capacitor",
+        "React Native"
+      ]
+    },
+    {
+      "id": "exp_tafweela",
+      "company": {
+        "en": "Tafweela",
+        "ar": "تفويلة"
+      },
+      "role": {
+        "en": "Software Engineer (Front-End)",
+        "ar": "مهندس برمجيات (واجهات أمامية)"
+      },
+      "start": "2023-04",
+      "end": "2023-05",
+      "description": {
+        "en": "Built the web platform and admin dashboard for companies partnering with petrol stations.",
+        "ar": "بناء منصة الويب ولوحة التحكم للشركات المتعاقدة مع محطات الوقود."
+      },
+      "link": "https://tafweela.com/",
+      "tech": [
+        "React.js",
+        "REST API"
+      ]
+    },
+    {
+      "id": "exp_dimofinf",
+      "company": {
+        "en": "Dimofinf",
+        "ar": "ديموفنف"
+      },
+      "role": {
+        "en": "Software Engineer",
+        "ar": "مهندس برمجيات"
+      },
+      "start": "2022-09",
+      "end": "2023-04",
+      "description": {
+        "en": "Developed web products and front-end features for client platforms.",
+        "ar": "تطوير منتجات ويب وميزات واجهات أمامية لمنصات العملاء."
+      },
+      "tech": [
+        "React.js",
+        "Next.js",
+        "JavaScript"
+      ]
+    },
+    {
+      "id": "exp_freelance",
+      "company": {
+        "en": "Freelance",
+        "ar": "عمل حر"
+      },
+      "role": {
+        "en": "Freelance Web Developer",
+        "ar": "مطور ويب مستقل"
+      },
+      "start": "2019-09",
+      "end": "2022-06",
+      "description": {
+        "en": "Delivered full-stack web apps and dashboards for clients across Egypt, Saudi Arabia and Kuwait.",
+        "ar": "تسليم تطبيقات ويب ولوحات تحكم متكاملة لعملاء في مصر والسعودية والكويت."
+      },
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL",
+        "PHP"
+      ]
+    },
+    {
+      "id": "exp_udacity",
+      "company": {
+        "en": "Udacity, Inc.",
+        "ar": "يوداسيتي"
+      },
+      "role": {
+        "en": "Mentor and Project Reviewer, Front-End Nanodegrees",
+        "ar": "مرشد ومراجع مشاريع، برامج النانو ديجري للواجهات الأمامية"
+      },
+      "start": "2018-05",
+      "end": "2021-05",
+      "description": {
+        "en": "Mentored students and reviewed front-end projects, giving detailed code-quality feedback.",
+        "ar": "إرشاد الطلاب ومراجعة مشاريع الواجهات الأمامية وتقديم ملاحظات تفصيلية حول جودة الكود."
+      },
+      "link": "https://youtu.be/igak2zJPv60",
+      "tech": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "React.js"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "prj_medad",
+      "title": {
+        "en": "Medad Platform (Naseej)",
+        "ar": "منصة مداد (نسيج)"
+      },
+      "role": {
+        "en": "Front-End Developer",
+        "ar": "مطور واجهات أمامية"
+      },
+      "description": {
+        "en": "Learning and training management platform serving multiple colleges. TMP covers training-needs assessment, learner and instructor portals, and white-labelled iOS/Android apps in Arabic (RTL) and English. Also built modules for CMP and SEP.",
+        "ar": "منصة لإدارة التعلم والتدريب تخدم عدة كليات. تشمل TMP تقييم الاحتياجات التدريبية وبوابات المتدربين والمدربين وتطبيقات iOS/Android بعلامات مخصصة بالعربية (RTL) والإنجليزية، بالإضافة إلى وحدات CMP و SEP."
+      },
+      "tech": [
+        "React.js",
+        "TypeScript",
+        "Ant Design",
+        "React Query",
+        "Capacitor",
+        "React Native"
+      ],
+      "link": "https://naseej.com/",
+      "category": "professional",
+      "featured": true
+    },
+    {
+      "id": "prj_tafweela",
+      "title": {
+        "en": "Tafweela App",
+        "ar": "تطبيق تفويلة"
+      },
+      "role": {
+        "en": "Front-End Developer",
+        "ar": "مطور واجهات أمامية"
+      },
+      "description": {
+        "en": "Web platform and admin dashboard for companies partnering with petrol stations.",
+        "ar": "منصة ويب ولوحة تحكم للشركات المتعاقدة مع محطات الوقود."
+      },
+      "tech": [
+        "React.js",
+        "REST API"
+      ],
+      "link": "https://tafweela.com/",
+      "category": "professional",
+      "featured": true
+    },
+    {
+      "id": "prj_dvdyatii",
+      "title": {
+        "en": "DVDYatii",
+        "ar": "دي في دي ياتي"
+      },
+      "role": {
+        "en": "Front-End Developer",
+        "ar": "مطور واجهات أمامية"
+      },
+      "description": {
+        "en": "Movie application for the Kuwaiti market.",
+        "ar": "تطبيق أفلام موجّه للسوق الكويتي."
+      },
+      "tech": [
+        "Next.js",
+        "TMDB API"
+      ],
+      "link": "",
+      "category": "professional",
+      "featured": true
+    },
+    {
+      "id": "prj_lawyer",
+      "title": {
+        "en": "Lawyer System",
+        "ar": "نظام المحاماة"
+      },
+      "role": {
+        "en": "Front-End Developer",
+        "ar": "مطور واجهات أمامية"
+      },
+      "description": {
+        "en": "Case management system for bankrupt companies in Saudi Arabia.",
+        "ar": "نظام لإدارة قضايا الشركات المفلسة في المملكة العربية السعودية."
+      },
+      "tech": [
+        "React.js",
+        "REST API"
+      ],
+      "link": "",
+      "category": "professional",
+      "featured": false
+    },
+    {
+      "id": "prj_skitab",
+      "title": {
+        "en": "Skitab",
+        "ar": "سكتاب"
+      },
+      "role": {
+        "en": "Front-End Developer",
+        "ar": "مطور واجهات أمامية"
+      },
+      "description": {
+        "en": "Front-end development for the Skitab web platform.",
+        "ar": "تطوير الواجهات الأمامية لمنصة سكتاب."
+      },
+      "tech": [
+        "React.js"
+      ],
+      "link": "",
+      "category": "professional",
+      "featured": false
+    },
+    {
+      "id": "prj_fixfac",
+      "title": {
+        "en": "Fix Fac",
+        "ar": "فيكس فاك"
+      },
+      "role": {
+        "en": "MERN Stack Developer and Team Lead",
+        "ar": "مطور MERN وقائد فريق"
+      },
+      "description": {
+        "en": "Led the team that built the product and its admin dashboard.",
+        "ar": "قيادة الفريق الذي بنى المنتج ولوحة التحكم الخاصة به."
+      },
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Odoo",
+        "MySQL",
+        "Bootstrap"
+      ],
+      "link": "",
+      "category": "professional",
+      "featured": true
+    },
+    {
+      "id": "prj_coffee",
+      "title": {
+        "en": "Coffee Shop Management System",
+        "ar": "نظام إدارة المقاهي"
+      },
+      "role": {
+        "en": "Full-Stack Developer",
+        "ar": "مطور متكامل"
+      },
+      "description": {
+        "en": "Management system for coffee shops with authentication, orders and inventory.",
+        "ar": "نظام لإدارة المقاهي يشمل المصادقة والطلبات والمخزون."
+      },
+      "tech": [
+        "React.js",
+        "PHP",
+        "MySQL",
+        "JWT",
+        "Bootstrap"
+      ],
+      "link": "https://youtu.be/fkoibUGJQ5g",
+      "category": "personal",
+      "featured": false
+    },
+    {
+      "id": "prj_supermarket",
+      "title": {
+        "en": "Supermarket App and Memory Store",
+        "ar": "تطبيق السوبرماركت ومتجر الذكريات"
+      },
+      "role": {
+        "en": "MERN Stack Developer",
+        "ar": "مطور MERN"
+      },
+      "description": {
+        "en": "Two MERN applications: a supermarket shopping app and a memory-sharing store.",
+        "ar": "تطبيقان بتقنية MERN: تطبيق تسوق لسوبرماركت ومتجر لمشاركة الذكريات."
+      },
+      "tech": [
+        "MongoDB",
+        "Express.js",
+        "React.js",
+        "Node.js",
+        "Bootstrap"
+      ],
+      "link": "",
+      "category": "personal",
+      "featured": false
+    },
+    {
+      "id": "prj_qas",
+      "title": {
+        "en": "Quality Assessment System, Benha University",
+        "ar": "نظام تقييم الجودة، جامعة بنها"
+      },
+      "role": {
+        "en": ".NET Developer and DBA",
+        "ar": "مطور .NET ومدير قواعد بيانات"
+      },
+      "description": {
+        "en": "Graduation project for the Faculty of Computers and Artificial Intelligence.",
+        "ar": "مشروع التخرج لكلية الحاسبات والذكاء الاصطناعي."
+      },
+      "tech": [
+        "ASP.NET MVC",
+        "Entity Framework",
+        "SQL Server",
+        "jQuery",
+        "AJAX"
+      ],
+      "link": "",
+      "category": "personal",
+      "featured": false
+    },
+    {
+      "id": "prj_restaurant",
+      "title": {
+        "en": "Restaurant Reviews App (Udacity)",
+        "ar": "تطبيق تقييم المطاعم (يوداسيتي)"
+      },
+      "role": {
+        "en": "Web Developer",
+        "ar": "مطور ويب"
+      },
+      "description": {
+        "en": "Restaurant reviews on interactive vector-tile maps.",
+        "ar": "تقييمات المطاعم على خرائط تفاعلية."
+      },
+      "tech": [
+        "jQuery",
+        "Leaflet.js",
+        "Mapbox (WebGL)",
+        "Python",
+        "MongoDB"
+      ],
+      "link": "https://youtu.be/igak2zJPv60",
+      "category": "personal",
+      "featured": false
+    },
+    {
+      "id": "prj_reactapis",
+      "title": {
+        "en": "React API Apps",
+        "ar": "تطبيقات React مع واجهات API"
+      },
+      "role": {
+        "en": "React.js Developer",
+        "ar": "مطور React.js"
+      },
+      "description": {
+        "en": "Watch Me Map (Google Maps API), Movie Yo (TMDB API), YouTube Videos Simulation (YouTube API) and Pics App (Unsplash API).",
+        "ar": "Watch Me Map (خرائط جوجل)، Movie Yo (TMDB)، محاكاة يوتيوب (YouTube API)، وتطبيق الصور (Unsplash API)."
+      },
+      "tech": [
+        "React.js",
+        "Google Maps API",
+        "TMDB API",
+        "YouTube API",
+        "Unsplash API"
+      ],
+      "link": "",
+      "links": [
+        {
+          "label": "Watch Me Map",
+          "url": "https://condescending-fermat-aba37c.netlify.app/"
+        },
+        {
+          "label": "Movie Yo",
+          "url": "https://movie-yo.vercel.app/"
+        },
+        {
+          "label": "YouTube Videos Simulation",
+          "url": "https://youtube-videos-seven.vercel.app/"
+        },
+        {
+          "label": "Pics App",
+          "url": "https://pics-app-gilt.vercel.app/"
+        }
+      ],
+      "category": "personal",
+      "featured": false
+    }
+  ],
+  "skillGroups": [
+    {
+      "id": "sk_lang",
+      "name": {
+        "en": "Languages",
+        "ar": "لغات البرمجة"
+      },
+      "items": [
+        "JavaScript (ES6+)",
+        "TypeScript",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+    {
+      "id": "sk_fe",
+      "name": {
+        "en": "Front-end",
+        "ar": "الواجهات الأمامية"
+      },
+      "items": [
+        "React.js",
+        "Next.js",
+        "Redux",
+        "React Query",
+        "React Router",
+        "jQuery"
+      ]
+    },
+    {
+      "id": "sk_ui",
+      "name": {
+        "en": "UI & Styling",
+        "ar": "الواجهات والتنسيق"
+      },
+      "items": [
+        "Ant Design",
+        "MUI",
+        "Bootstrap",
+        "Tailwind CSS",
+        "Less",
+        "Sass",
+        "RTL layouts"
+      ]
+    },
+    {
+      "id": "sk_mobile",
+      "name": {
+        "en": "Mobile",
+        "ar": "تطبيقات الجوال"
+      },
+      "items": [
+        "React Native",
+        "Capacitor (iOS & Android)"
+      ]
+    },
+    {
+      "id": "sk_be",
+      "name": {
+        "en": "Back-end & APIs",
+        "ar": "الخوادم وواجهات API"
+      },
+      "items": [
+        "Node.js",
+        "Express.js",
+        "Passport.js",
+        "REST",
+        "SOAP"
+      ]
+    },
+    {
+      "id": "sk_db",
+      "name": {
+        "en": "Databases",
+        "ar": "قواعد البيانات"
+      },
+      "items": [
+        "MySQL",
+        "MongoDB",
+        "SQL Server"
+      ]
+    },
+    {
+      "id": "sk_tools",
+      "name": {
+        "en": "Testing & Tools",
+        "ar": "الاختبار والأدوات"
+      },
+      "items": [
+        "Playwright",
+        "Vitest",
+        "Vite",
+        "Git"
+      ]
+    },
+    {
+      "id": "sk_practices",
+      "name": {
+        "en": "Practices",
+        "ar": "الممارسات"
+      },
+      "items": [
+        "OOP",
+        "Clean code",
+        "Design patterns",
+        "Agile"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "id": "edu_iti",
+      "title": {
+        "en": "9-Month Professional Diploma — Open Source Application Development",
+        "ar": "دبلومة مهنية 9 أشهر — تطوير تطبيقات المصادر المفتوحة"
+      },
+      "institution": {
+        "en": "Information Technology Institute (ITI)",
+        "ar": "معهد تكنولوجيا المعلومات (ITI)"
+      },
+      "start": "2021-10",
+      "end": "2022-06",
+      "details": {
+        "en": "Full-stack web development with Node.js, React.js, Angular and Vue.js; JavaScript, Python, Java, C/C++ and PHP; OOP, software engineering and Agile.",
+        "ar": "تطوير ويب متكامل باستخدام Node.js و React.js و Angular و Vue.js؛ وبرمجة JavaScript و Python و Java و C/C++ و PHP؛ والبرمجة الكائنية وهندسة البرمجيات و Agile."
+      }
+    },
+    {
+      "id": "edu_benha",
+      "title": {
+        "en": "BSc in Information Systems",
+        "ar": "بكالوريوس نظم المعلومات"
+      },
+      "institution": {
+        "en": "Faculty of Computers and Artificial Intelligence, Benha University",
+        "ar": "كلية الحاسبات والذكاء الاصطناعي، جامعة بنها"
+      },
+      "start": "2015-05",
+      "end": "2019-07",
+      "details": {
+        "en": "Graduation project: Quality Assessment System (ASP.NET MVC, SQL Server).",
+        "ar": "مشروع التخرج: نظام تقييم الجودة (ASP.NET MVC و SQL Server)."
+      }
+    }
+  ],
+  "certificates": [
+    {
+      "id": "cert_advfe",
+      "title": {
+        "en": "Advanced Front-End Web Development Nanodegree",
+        "ar": "نانو ديجري تطوير الواجهات الأمامية المتقدم"
+      },
+      "issuer": {
+        "en": "Udacity",
+        "ar": "يوداسيتي"
+      },
+      "date": "2021-07",
+      "link": "https://confirm.udacity.com/HHNPMULX",
+      "description": {
+        "en": "Predictable application state with React and Redux; front-end build tools.",
+        "ar": "إدارة حالة التطبيق باستخدام React و Redux؛ وأدوات بناء الواجهات الأمامية."
+      }
+    },
+    {
+      "id": "cert_sololearn",
+      "title": {
+        "en": "React + Redux",
+        "ar": "React + Redux"
+      },
+      "issuer": {
+        "en": "SoloLearn",
+        "ar": "سولو ليرن"
+      },
+      "date": "2021-05",
+      "link": "https://www.sololearn.com/Certificate/1097-21861198/jpg",
+      "description": {
+        "en": "Single-page applications in React.js with Redux state management.",
+        "ar": "تطبيقات الصفحة الواحدة باستخدام React.js وإدارة الحالة بـ Redux."
+      }
+    },
+    {
+      "id": "cert_webdev",
+      "title": {
+        "en": "Web Development Professional Nanodegree",
+        "ar": "نانو ديجري تطوير الويب الاحترافي"
+      },
+      "issuer": {
+        "en": "Udacity",
+        "ar": "يوداسيتي"
+      },
+      "date": "2020-07",
+      "link": "https://confirm.udacity.com/ZVCSEPT7",
+      "description": {
+        "en": "DOM manipulation and dynamic, event-driven user experiences.",
+        "ar": "التعامل مع DOM وبناء تجارب مستخدم ديناميكية قائمة على الأحداث."
+      }
+    },
+    {
+      "id": "cert_fend",
+      "title": {
+        "en": "Front-End Web Developer Nanodegree",
+        "ar": "نانو ديجري مطور الواجهات الأمامية"
+      },
+      "issuer": {
+        "en": "Udacity",
+        "ar": "يوداسيتي"
+      },
+      "date": "2018-07",
+      "link": "https://confirm.udacity.com/HPRH2NDK",
+      "description": {
+        "en": "JavaScript (ES6), object-oriented patterns, closures, accessibility, Git and single-page applications with React.",
+        "ar": "JavaScript (ES6) والأنماط الكائنية و closures وسهولة الوصول و Git وتطبيقات الصفحة الواحدة بـ React."
+      }
+    },
+    {
+      "id": "cert_dotnet",
+      "title": {
+        "en": ".NET Web Development",
+        "ar": "تطوير الويب بـ .NET"
+      },
+      "issuer": {
+        "en": "ITI",
+        "ar": "معهد تكنولوجيا المعلومات"
+      },
+      "date": "2018-12",
+      "description": {
+        "en": "SQL Server, C# (.NET Framework 4.5), ASP.NET and ASP.NET MVC.",
+        "ar": "SQL Server و C# (.NET Framework 4.5) و ASP.NET و ASP.NET MVC."
+      }
+    }
+  ],
+  "languages": [
+    {
+      "id": "lng_ar",
+      "name": {
+        "en": "Arabic",
+        "ar": "العربية"
+      },
+      "level": {
+        "en": "Native",
+        "ar": "اللغة الأم"
+      }
+    },
+    {
+      "id": "lng_en",
+      "name": {
+        "en": "English",
+        "ar": "الإنجليزية"
+      },
+      "level": {
+        "en": "Very good",
+        "ar": "جيد جدًا"
+      }
+    }
+  ],
+  "softSkills": [
+    {
+      "en": "Team leadership",
+      "ar": "قيادة الفريق"
+    },
+    {
+      "en": "Teamwork",
+      "ar": "العمل الجماعي"
+    },
+    {
+      "en": "Time management and planning",
+      "ar": "إدارة الوقت والتخطيط"
+    },
+    {
+      "en": "Fast learner",
+      "ar": "سريع التعلم"
+    },
+    {
+      "en": "Problem solving",
+      "ar": "حل المشكلات"
+    },
+    {
+      "en": "Communication",
+      "ar": "التواصل"
+    }
+  ],
+  "blog": [
+    {
+      "id": "post_js_fundamentals",
+      "slug": "javascript-interview-questions-fundamentals",
+      "title": {
+        "en": "JavaScript interview questions, part 1: fundamentals",
+        "ar": "أسئلة مقابلات JavaScript، الجزء 1: الأساسيات"
+      },
+      "excerpt": {
+        "en": "Ten core JavaScript questions every front-end interview starts with, with short answers and code.",
+        "ar": "عشرة أسئلة أساسية في JavaScript تبدأ بها كل مقابلة واجهات أمامية، مع إجابات مختصرة وأمثلة كود."
+      },
+      "content": {
+        "en": "This is the first article in a six-part series that takes you from JavaScript fundamentals to senior-level React questions. Interviewers use these early questions to check that your foundations are solid, so answer them precisely and briefly.\n\n## 1. What is the difference between `var`, `let` and `const`?\n`var` is function-scoped and is hoisted and initialised with `undefined`. `let` and `const` are block-scoped and live in the temporal dead zone (TDZ) until their declaration runs, so reading them early throws a `ReferenceError`. `const` prevents reassignment, not mutation: the object it points to can still change.\n\n```js\nconsole.log(a) // undefined\nvar a = 1\n\nconsole.log(b) // ReferenceError (TDZ)\nlet b = 2\n\nconst user = { name: 'Mo' }\nuser.name = 'Mohamed' // allowed\n// user = {}          // TypeError\n```\n\n## 2. What is the difference between `==` and `===`?\n`===` compares value and type without conversion. `==` applies type coercion first, which leads to surprising results. Use `===` by default. `Object.is` is like `===` but treats `NaN` as equal to itself and distinguishes `+0` from `-0`.\n\n```js\n0 == ''          // true\n0 === ''         // false\nnull == undefined // true\nNaN === NaN      // false\nObject.is(NaN, NaN) // true\n```\n\n## 3. What is the difference between primitive and reference types?\nPrimitives (`string`, `number`, `bigint`, `boolean`, `undefined`, `null`, `symbol`) are immutable and copied by value. Objects, arrays and functions are copied by reference, so two variables can point to the same object. Use the spread operator for a shallow copy and `structuredClone` for a deep copy.\n\n```js\nconst a = { tags: ['js'] }\nconst shallow = { ...a }\nshallow.tags.push('react') // also changes a.tags\n\nconst deep = structuredClone(a)\ndeep.tags.push('ts')        // a is untouched\n```\n\n## 4. What is hoisting?\nBefore code runs, the engine registers declarations in their scope. Function declarations are hoisted completely, so you can call them before they appear. `var` is hoisted as `undefined`; `let`, `const` and `class` are hoisted but stay uninitialised (TDZ). Function expressions follow the rules of the variable that holds them.\n\n```js\ngreet() // works\nfunction greet() { console.log('hi') }\n\nsayBye() // TypeError: sayBye is not a function\nvar sayBye = function () {}\n```\n\n## 5. What is the difference between `||`, `??` and `?.`?\n`||` returns the right side for any falsy value (`0`, `''`, `false`, `null`, `undefined`, `NaN`). `??` (nullish coalescing) only falls back for `null` or `undefined`, so it keeps valid values like `0`. `?.` (optional chaining) stops and returns `undefined` if the left side is `null` or `undefined`.\n\n```js\nconst count = 0\ncount || 10 // 10\ncount ?? 10 // 0\n\nconst user = null\nuser?.profile?.name // undefined, no error\n```\n\n## 6. How do arrow functions differ from regular functions?\nArrow functions do not have their own `this`, `arguments`, `super` or `prototype`; they take `this` from the surrounding scope, and they cannot be used with `new`. That makes them great for callbacks, but a poor choice for object methods that rely on `this`.\n\n```js\nconst counter = {\n  count: 0,\n  start() {\n    setInterval(() => this.count++, 1000) // this === counter\n  },\n  broken: () => this.count, // this is NOT counter\n}\n```\n\n## 7. Which array methods mutate the array, and which return a new one?\n`push`, `pop`, `shift`, `unshift`, `splice`, `sort`, `reverse` and `fill` mutate the original. `map`, `filter`, `slice`, `concat` and `flat` return new arrays. ES2023 added immutable versions: `toSorted`, `toReversed`, `toSpliced` and `with`, which are useful for state updates in React.\n\n```js\nconst nums = [3, 1, 2]\nconst sorted = nums.toSorted() // [1, 2, 3], nums unchanged\nconst total = nums.reduce((sum, n) => sum + n, 0) // 6\n```\n\n## 8. What are destructuring, spread and rest?\nDestructuring pulls values out of arrays or objects into variables, with optional defaults and renaming. Spread (`...`) expands an iterable or object into another one. Rest uses the same syntax to collect the remaining items into an array or object, for example in function parameters.\n\n```js\nconst { name, role = 'dev', ...rest } = { name: 'Mo', city: 'Cairo' }\nconst [first, ...others] = [1, 2, 3]\nconst merged = { ...defaults, ...options }\nfunction sum(...numbers) { return numbers.reduce((a, b) => a + b, 0) }\n```\n\n## 9. What is the difference between `null` and `undefined`?\n`undefined` means a value was never assigned: missing variables, missing properties, or functions without a `return`. `null` is an intentional empty value set by the developer. `typeof null` returns `'object'`, a historical bug, so check for null with `value === null`.\n\n## 10. What are event bubbling, capturing and delegation?\nA DOM event travels down from `window` to the target (capturing) and then back up (bubbling). Event delegation attaches one listener to a parent and uses `event.target` to handle events from many children, including ones added later. Call `stopPropagation()` to stop the event, and `preventDefault()` to cancel the browser's default action.\n\n```js\ndocument.querySelector('#list').addEventListener('click', (event) => {\n  const item = event.target.closest('li')\n  if (item) console.log('clicked', item.dataset.id)\n})\n```\n\n> Next: closures, `this`, prototypes and the event loop in part 2.",
+        "ar": "هذا أول مقال في سلسلة من ستة أجزاء تنتقل بك من أساسيات JavaScript إلى أسئلة React على مستوى المطور الأول (Senior). يستخدم المُقابِلون هذه الأسئلة الأولى للتأكد من متانة أساسياتك، لذا أجب عنها بدقة واختصار.\n\n## 1. ما الفرق بين `var` و `let` و `const`؟\n`var` نطاقه الدالة ويتم رفعه (hoisting) وتهيئته بـ `undefined`. أما `let` و `const` فنطاقهما الكتلة (block) ويبقيان في المنطقة الميتة مؤقتًا (TDZ) حتى يُنفَّذ سطر التعريف، لذا قراءتهما قبل ذلك ترمي `ReferenceError`. و `const` يمنع إعادة الإسناد وليس التعديل: الكائن الذي يشير إليه يمكن أن يتغير.\n\n```js\nconsole.log(a) // undefined\nvar a = 1\n\nconsole.log(b) // ReferenceError (TDZ)\nlet b = 2\n\nconst user = { name: 'Mo' }\nuser.name = 'Mohamed' // allowed\n// user = {}          // TypeError\n```\n\n## 2. ما الفرق بين `==` و `===`؟\n`===` يقارن القيمة والنوع دون تحويل. أما `==` فيحوّل الأنواع أولًا (coercion) مما يؤدي إلى نتائج غير متوقعة. استخدم `===` افتراضيًا. و `Object.is` يشبه `===` لكنه يعتبر `NaN` مساويًا لنفسه ويفرّق بين `+0` و `-0`.\n\n```js\n0 == ''          // true\n0 === ''         // false\nnull == undefined // true\nNaN === NaN      // false\nObject.is(NaN, NaN) // true\n```\n\n## 3. ما الفرق بين الأنواع البدائية والأنواع المرجعية؟\nالأنواع البدائية (`string` و `number` و `bigint` و `boolean` و `undefined` و `null` و `symbol`) غير قابلة للتغيير وتُنسخ بالقيمة. أما الكائنات والمصفوفات والدوال فتُنسخ بالمرجع، فقد يشير متغيران إلى الكائن نفسه. استخدم الـ spread للنسخ السطحي و `structuredClone` للنسخ العميق.\n\n```js\nconst a = { tags: ['js'] }\nconst shallow = { ...a }\nshallow.tags.push('react') // also changes a.tags\n\nconst deep = structuredClone(a)\ndeep.tags.push('ts')        // a is untouched\n```\n\n## 4. ما هو الرفع (Hoisting)؟\nقبل تنفيذ الكود يسجّل المحرك التعريفات في نطاقها. تُرفع تعريفات الدوال (function declarations) بالكامل فيمكن استدعاؤها قبل موضعها. ويُرفع `var` بقيمة `undefined`، بينما تُرفع `let` و `const` و `class` دون تهيئة (TDZ). أما تعابير الدوال فتتبع قواعد المتغير الذي يحملها.\n\n```js\ngreet() // works\nfunction greet() { console.log('hi') }\n\nsayBye() // TypeError: sayBye is not a function\nvar sayBye = function () {}\n```\n\n## 5. ما الفرق بين `||` و `??` و `?.`؟\n`||` يعيد الطرف الأيمن مع أي قيمة falsy (مثل `0` و `''` و `false` و `null` و `undefined` و `NaN`). أما `??` فيستخدم البديل فقط مع `null` أو `undefined`، فيحافظ على قيم صحيحة مثل `0`. و `?.` (التسلسل الاختياري) يتوقف ويعيد `undefined` إذا كان الطرف الأيسر `null` أو `undefined`.\n\n```js\nconst count = 0\ncount || 10 // 10\ncount ?? 10 // 0\n\nconst user = null\nuser?.profile?.name // undefined, no error\n```\n\n## 6. كيف تختلف الدوال السهمية عن الدوال العادية؟\nالدوال السهمية ليس لها `this` أو `arguments` أو `super` أو `prototype` خاص بها؛ فهي تأخذ `this` من النطاق المحيط، ولا يمكن استخدامها مع `new`. لذلك هي ممتازة للـ callbacks لكنها خيار سيئ لدوال الكائنات التي تعتمد على `this`.\n\n```js\nconst counter = {\n  count: 0,\n  start() {\n    setInterval(() => this.count++, 1000) // this === counter\n  },\n  broken: () => this.count, // this is NOT counter\n}\n```\n\n## 7. ما دوال المصفوفات التي تعدّل المصفوفة الأصلية وما التي تعيد مصفوفة جديدة؟\n`push` و `pop` و `shift` و `unshift` و `splice` و `sort` و `reverse` و `fill` تعدّل المصفوفة الأصلية. أما `map` و `filter` و `slice` و `concat` و `flat` فتعيد مصفوفات جديدة. وأضاف ES2023 نسخًا غير معدِّلة: `toSorted` و `toReversed` و `toSpliced` و `with`، وهي مفيدة لتحديث الحالة في React.\n\n```js\nconst nums = [3, 1, 2]\nconst sorted = nums.toSorted() // [1, 2, 3], nums unchanged\nconst total = nums.reduce((sum, n) => sum + n, 0) // 6\n```\n\n## 8. ما هي التفكيك (Destructuring) والـ Spread والـ Rest؟\nالتفكيك يستخرج القيم من المصفوفات أو الكائنات إلى متغيرات، مع قيم افتراضية وإعادة تسمية اختيارية. والـ spread (`...`) ينشر عناصر مصفوفة أو كائن داخل آخر. أما الـ rest فيستخدم الصيغة نفسها لتجميع العناصر المتبقية في مصفوفة أو كائن، مثل معاملات الدوال.\n\n```js\nconst { name, role = 'dev', ...rest } = { name: 'Mo', city: 'Cairo' }\nconst [first, ...others] = [1, 2, 3]\nconst merged = { ...defaults, ...options }\nfunction sum(...numbers) { return numbers.reduce((a, b) => a + b, 0) }\n```\n\n## 9. ما الفرق بين `null` و `undefined`؟\n`undefined` تعني أنه لم تُسند قيمة أبدًا: متغيرات أو خصائص غير موجودة أو دوال بلا `return`. أما `null` فهي قيمة فارغة مقصودة يضعها المطور. و `typeof null` يعيد `'object'` بسبب خطأ تاريخي، لذا تحقّق منها بـ `value === null`.\n\n## 10. ما هي فقاعات الأحداث (Bubbling) والالتقاط (Capturing) والتفويض (Delegation)؟\nينتقل حدث الـ DOM من `window` نزولًا إلى العنصر الهدف (capturing) ثم يصعد مرة أخرى (bubbling). وتفويض الأحداث يعني إضافة مستمع واحد على العنصر الأب واستخدام `event.target` للتعامل مع أحداث عدة أبناء، حتى المضاف منها لاحقًا. استخدم `stopPropagation()` لإيقاف انتشار الحدث و `preventDefault()` لإلغاء السلوك الافتراضي للمتصفح.\n\n```js\ndocument.querySelector('#list').addEventListener('click', (event) => {\n  const item = event.target.closest('li')\n  if (item) console.log('clicked', item.dataset.id)\n})\n```\n\n> التالي: الـ closures و `this` والـ prototypes وحلقة الأحداث في الجزء 2."
+      },
+      "tags": [
+        "Interview",
+        "JavaScript",
+        "Fundamentals"
+      ],
+      "date": "2026-10-01",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_js_intermediate",
+      "slug": "javascript-interview-questions-intermediate",
+      "title": {
+        "en": "JavaScript interview questions, part 2: intermediate",
+        "ar": "أسئلة مقابلات JavaScript، الجزء 2: المستوى المتوسط"
+      },
+      "excerpt": {
+        "en": "Closures, `this`, prototypes, the event loop, promises and async patterns, explained with code.",
+        "ar": "الـ closures و `this` والـ prototypes وحلقة الأحداث والـ promises وأنماط البرمجة غير المتزامنة، مع أمثلة كود."
+      },
+      "content": {
+        "en": "Part 2 covers the concepts that separate people who use JavaScript from people who understand it. Expect follow-up questions here: be ready to predict output and write small implementations.\n\n## 1. What is a closure? Give a practical use.\nA closure is a function that keeps access to variables from the scope where it was created, even after that scope has finished. Closures give you private state, factories, memoization, and they are how React hooks remember values between renders.\n\n```js\nfunction createCounter() {\n  let count = 0 // private\n  return { increment: () => ++count, get: () => count }\n}\nconst counter = createCounter()\ncounter.increment() // 1\n```\n\n## 2. How is `this` determined?\nBy how the function is called, in this order of priority: `new` binds a fresh object; `call`, `apply` and `bind` set it explicitly; calling as `obj.method()` binds `obj`; a plain call gives `undefined` in strict mode (or `globalThis` in sloppy mode). Arrow functions ignore all of these and use the `this` of the enclosing scope.\n\n```js\nconst user = { name: 'Mo', hi() { return this.name } }\nconst hi = user.hi\nhi()               // undefined (strict mode)\nhi.call(user)      // 'Mo'\nconst bound = hi.bind(user)\nbound()            // 'Mo'\n```\n\n## 3. How does prototypal inheritance work? Are classes different?\nEvery object has an internal link (`[[Prototype]]`) to another object. When a property is missing, JavaScript looks it up along this chain. `class` syntax is mostly syntactic sugar over constructor functions and prototypes, with extras such as private fields (`#field`) and stricter rules.\n\n```js\nclass Animal { speak() { return 'sound' } }\nclass Dog extends Animal { speak() { return 'woof' } }\nconst d = new Dog()\nObject.getPrototypeOf(d) === Dog.prototype // true\nd.hasOwnProperty('speak')                  // false (found on the prototype)\n```\n\n## 4. Explain the event loop. What does this code print?\nJavaScript runs one call stack. When it is empty, the event loop first drains the microtask queue (promise callbacks, `queueMicrotask`) and then takes one macrotask (timers, I/O, UI events). So the output is `1, 4, 3, 2`: synchronous code first, then microtasks, then the timer.\n\n```js\nconsole.log(1)\nsetTimeout(() => console.log(2), 0)\nPromise.resolve().then(() => console.log(3))\nconsole.log(4)\n// 1, 4, 3, 2\n```\n\n## 5. What is the difference between `Promise.all`, `allSettled`, `race` and `any`?\n`all` resolves with every result, or rejects on the first failure. `allSettled` always resolves with the status of each promise. `race` settles with the first promise to settle, success or failure. `any` resolves with the first success and rejects only if all of them fail (`AggregateError`).\n\n```js\nconst [user, posts] = await Promise.all([getUser(), getPosts()])\nconst results = await Promise.allSettled(requests)\nconst fastest = await Promise.any([mirrorA(), mirrorB()])\n```\n\n## 6. How do you handle errors and parallelism with async/await?\nWrap awaits in `try/catch` (or `.catch` on the promise). A common mistake is awaiting independent requests one after another: start them together and await `Promise.all` instead. Use `for...of` with `await` only when each step depends on the previous one.\n\n```js\n// Slow: about 2 seconds\nconst a = await fetchA()\nconst b = await fetchB()\n\n// Fast: about 1 second\nconst [a2, b2] = await Promise.all([fetchA(), fetchB()])\n```\n\n## 7. What is the difference between debounce and throttle? Implement debounce.\nDebounce waits until calls stop for a given time and then runs once, which suits search inputs. Throttle runs at most once per interval, which suits scroll and resize handlers.\n\n```js\nfunction debounce(fn, delay = 300) {\n  let timer\n  return (...args) => {\n    clearTimeout(timer)\n    timer = setTimeout(() => fn(...args), delay)\n  }\n}\nconst onSearch = debounce((q) => fetchResults(q), 400)\n```\n\n## 8. What is the difference between ES modules and CommonJS?\nES modules (`import`/`export`) are static, so bundlers can analyse them and remove unused code (tree shaking). They support top-level `await` and load asynchronously. CommonJS (`require`/`module.exports`) is dynamic and synchronous, and it is the legacy Node.js format.\n\n## 9. What are pure functions and immutability, and why do they matter?\nA pure function returns the same output for the same input and has no side effects. Immutability means creating new objects instead of changing existing ones. Together they make code predictable and testable, and React and Redux rely on them to detect changes with a cheap reference comparison.\n\n```js\n// Impure: mutates its input\nfunction addTodo(list, todo) { list.push(todo); return list }\n// Pure: returns a new array\nconst addTodoPure = (list, todo) => [...list, todo]\n```\n\n## 10. What is currying?\nCurrying turns a function with several arguments into a chain of functions that each take one argument. It is useful for partial application: creating specialised functions from general ones, such as event handlers or validators.\n\n```js\nconst minLength = (min) => (value) => value.length >= min\nconst isValidPassword = minLength(8)\nisValidPassword('secret') // false\n```\n\n> Next: memory, performance, security and advanced patterns in part 3.",
+        "ar": "يغطي الجزء الثاني المفاهيم التي تميّز من يستخدم JavaScript عمّن يفهمها. توقّع أسئلة متابعة هنا: كن مستعدًا لتوقّع ناتج الكود وكتابة تطبيقات صغيرة.\n\n## 1. ما هو الـ Closure؟ أعطِ استخدامًا عمليًا.\nالـ closure هو دالة تحتفظ بإمكانية الوصول إلى متغيرات النطاق الذي أُنشئت فيه حتى بعد انتهاء ذلك النطاق. تتيح لك الـ closures حالة خاصة (private state) والمصانع (factories) والتخزين المؤقت (memoization)، وبها تتذكر hooks في React القيم بين مرات الرسم.\n\n```js\nfunction createCounter() {\n  let count = 0 // private\n  return { increment: () => ++count, get: () => count }\n}\nconst counter = createCounter()\ncounter.increment() // 1\n```\n\n## 2. كيف تُحدَّد قيمة `this`؟\nبطريقة استدعاء الدالة، وفق هذا الترتيب: `new` يربطها بكائن جديد؛ و `call` و `apply` و `bind` تحددها صراحة؛ والاستدعاء بالشكل `obj.method()` يربطها بـ `obj`؛ والاستدعاء العادي يعطي `undefined` في الوضع الصارم (أو `globalThis` في غيره). أما الدوال السهمية فتتجاهل كل ذلك وتستخدم `this` الخاص بالنطاق المحيط.\n\n```js\nconst user = { name: 'Mo', hi() { return this.name } }\nconst hi = user.hi\nhi()               // undefined (strict mode)\nhi.call(user)      // 'Mo'\nconst bound = hi.bind(user)\nbound()            // 'Mo'\n```\n\n## 3. كيف تعمل الوراثة عبر النماذج الأولية (Prototypes)؟ وهل الـ classes مختلفة؟\nكل كائن لديه رابط داخلي (`[[Prototype]]`) إلى كائن آخر. وعندما لا توجد خاصية يبحث عنها JavaScript على طول هذه السلسلة. وصيغة `class` في الغالب تجميل لغوي فوق دوال البناء والـ prototypes، مع إضافات مثل الحقول الخاصة (`#field`) وقواعد أكثر صرامة.\n\n```js\nclass Animal { speak() { return 'sound' } }\nclass Dog extends Animal { speak() { return 'woof' } }\nconst d = new Dog()\nObject.getPrototypeOf(d) === Dog.prototype // true\nd.hasOwnProperty('speak')                  // false (found on the prototype)\n```\n\n## 4. اشرح حلقة الأحداث (Event Loop). ماذا يطبع هذا الكود؟\nيعمل JavaScript بمكدس استدعاءات واحد. وعندما يفرغ، تفرغ حلقة الأحداث أولًا طابور المهام الدقيقة (microtasks مثل callbacks الـ promises و `queueMicrotask`) ثم تأخذ مهمة كبيرة واحدة (macrotask مثل المؤقتات والإدخال/الإخراج وأحداث الواجهة). لذا الناتج هو `1, 4, 3, 2`: الكود المتزامن أولًا ثم الـ microtasks ثم المؤقت.\n\n```js\nconsole.log(1)\nsetTimeout(() => console.log(2), 0)\nPromise.resolve().then(() => console.log(3))\nconsole.log(4)\n// 1, 4, 3, 2\n```\n\n## 5. ما الفرق بين `Promise.all` و `allSettled` و `race` و `any`؟\n`all` يُحل بكل النتائج أو يُرفض عند أول فشل. و `allSettled` يُحل دائمًا بحالة كل promise. و `race` ينتهي مع أول promise ينتهي سواء نجح أو فشل. و `any` يُحل بأول نجاح ولا يُرفض إلا إذا فشلت جميعها (`AggregateError`).\n\n```js\nconst [user, posts] = await Promise.all([getUser(), getPosts()])\nconst results = await Promise.allSettled(requests)\nconst fastest = await Promise.any([mirrorA(), mirrorB()])\n```\n\n## 6. كيف تتعامل مع الأخطاء والتوازي باستخدام async/await؟\nضع الـ await داخل `try/catch` (أو استخدم `.catch` على الـ promise). ومن الأخطاء الشائعة انتظار طلبات مستقلة واحدًا تلو الآخر: ابدأها معًا ثم انتظر `Promise.all`. واستخدم `for...of` مع `await` فقط عندما تعتمد كل خطوة على السابقة.\n\n```js\n// Slow: about 2 seconds\nconst a = await fetchA()\nconst b = await fetchB()\n\n// Fast: about 1 second\nconst [a2, b2] = await Promise.all([fetchA(), fetchB()])\n```\n\n## 7. ما الفرق بين الـ Debounce والـ Throttle؟ اكتب دالة debounce.\nالـ debounce ينتظر حتى تتوقف الاستدعاءات لمدة معينة ثم ينفّذ مرة واحدة، وهو مناسب لحقول البحث. أما الـ throttle فينفّذ مرة واحدة على الأكثر في كل فترة، وهو مناسب لأحداث التمرير وتغيير الحجم.\n\n```js\nfunction debounce(fn, delay = 300) {\n  let timer\n  return (...args) => {\n    clearTimeout(timer)\n    timer = setTimeout(() => fn(...args), delay)\n  }\n}\nconst onSearch = debounce((q) => fetchResults(q), 400)\n```\n\n## 8. ما الفرق بين وحدات ES Modules و CommonJS؟\nوحدات ES (`import`/`export`) ثابتة، لذا تستطيع أدوات التجميع تحليلها وإزالة الكود غير المستخدم (tree shaking). وتدعم `await` على المستوى الأعلى وتُحمَّل بشكل غير متزامن. أما CommonJS (`require`/`module.exports`) فديناميكية ومتزامنة، وهي الصيغة القديمة في Node.js.\n\n## 9. ما هي الدوال النقية (Pure Functions) وعدم القابلية للتغيير (Immutability)، ولماذا هي مهمة؟\nالدالة النقية تعيد الناتج نفسه للمدخلات نفسها وليس لها آثار جانبية. وعدم القابلية للتغيير يعني إنشاء كائنات جديدة بدلًا من تعديل الموجودة. معًا يجعلان الكود متوقعًا وقابلًا للاختبار، ويعتمد عليهما React و Redux لاكتشاف التغييرات بمقارنة مرجعية سريعة.\n\n```js\n// Impure: mutates its input\nfunction addTodo(list, todo) { list.push(todo); return list }\n// Pure: returns a new array\nconst addTodoPure = (list, todo) => [...list, todo]\n```\n\n## 10. ما هو الـ Currying؟\nالـ currying يحوّل دالة متعددة المعاملات إلى سلسلة دوال تأخذ كل منها معاملًا واحدًا. وهو مفيد للتطبيق الجزئي: إنشاء دوال متخصصة من دوال عامة، مثل معالجات الأحداث أو دوال التحقق.\n\n```js\nconst minLength = (min) => (value) => value.length >= min\nconst isValidPassword = minLength(8)\nisValidPassword('secret') // false\n```\n\n> التالي: الذاكرة والأداء والأمان والأنماط المتقدمة في الجزء 3."
+      },
+      "tags": [
+        "Interview",
+        "JavaScript",
+        "Intermediate"
+      ],
+      "date": "2026-10-02",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_js_advanced",
+      "slug": "javascript-interview-questions-advanced",
+      "title": {
+        "en": "JavaScript interview questions, part 3: advanced",
+        "ar": "أسئلة مقابلات JavaScript، الجزء 3: المستوى المتقدم"
+      },
+      "excerpt": {
+        "en": "Memory leaks, polyfills, the rendering pipeline, Core Web Vitals, security and design patterns for senior roles.",
+        "ar": "تسرّب الذاكرة والـ polyfills ومسار الرسم في المتصفح ومقاييس Core Web Vitals والأمان وأنماط التصميم لوظائف المطور الأول."
+      },
+      "content": {
+        "en": "Senior interviews move from \"what is\" to \"why\" and \"how would you\". These questions test whether you can reason about the browser, performance and security, not just the language.\n\n## 1. What causes memory leaks in front-end apps, and how do you find them?\nCommon causes: event listeners, intervals and subscriptions that are never removed, detached DOM nodes still referenced in JavaScript, growing caches, and closures that hold large objects. Find them with Chrome DevTools heap snapshots (compare before and after an action) and the Performance monitor. Use `WeakMap` for caches keyed by objects so entries can be garbage collected.\n\n```js\nuseEffect(() => {\n  const onResize = () => setWidth(window.innerWidth)\n  window.addEventListener('resize', onResize)\n  return () => window.removeEventListener('resize', onResize) // no leak\n}, [])\n```\n\n## 2. Implement `Promise.all`.\nKeep results in order, count settled promises, resolve when all of them are done and reject on the first error. Wrapping each item in `Promise.resolve` handles plain values too.\n\n```js\nfunction promiseAll(items) {\n  return new Promise((resolve, reject) => {\n    const results = []\n    let done = 0\n    if (items.length === 0) return resolve(results)\n    items.forEach((item, i) => {\n      Promise.resolve(item).then((value) => {\n        results[i] = value\n        if (++done === items.length) resolve(results)\n      }, reject)\n    })\n  })\n}\n```\n\n## 3. What are generators and iterators used for?\nAn iterator is an object with a `next()` method; anything with `[Symbol.iterator]` works with `for...of` and spread. Generators (`function*`) create iterators that pause at `yield`, which is good for lazy sequences, pagination and custom data structures. Async generators with `for await...of` are ideal for streams and paginated APIs.\n\n```js\nasync function* fetchPages(url) {\n  let next = url\n  while (next) {\n    const res = await fetch(next).then((r) => r.json())\n    yield res.items\n    next = res.nextPage\n  }\n}\nfor await (const items of fetchPages('/api/posts')) render(items)\n```\n\n## 4. What are `Proxy` and `Reflect`?\n`Proxy` wraps an object and intercepts operations such as get, set and delete through traps. It powers reactivity in libraries like Vue and MobX, validation and logging. `Reflect` offers the default behaviour of those operations, so traps can call it to forward the operation correctly.\n\n```js\nconst state = new Proxy({}, {\n  set(target, key, value) {\n    console.log('changed', key)\n    return Reflect.set(target, key, value)\n  },\n})\nstate.theme = 'dark' // logs: changed theme\n```\n\n## 5. What is the critical rendering path? What are reflow and repaint?\nThe browser parses HTML into the DOM and CSS into the CSSOM, combines them into a render tree, calculates layout (reflow), paints pixels and composites layers. Changing geometry triggers reflow, which is expensive; changing colours only repaints; `transform` and `opacity` can be handled by the compositor alone. Avoid layout thrashing: batch DOM reads before writes.\n\n```js\n// Thrashing: read/write/read/write\nitems.forEach((el) => { el.style.width = el.offsetWidth + 10 + 'px' })\n// Better: read everything, then write\nconst widths = items.map((el) => el.offsetWidth)\nitems.forEach((el, i) => { el.style.width = widths[i] + 10 + 'px' })\n```\n\n## 6. What are Core Web Vitals, and how do you improve them?\nLCP (Largest Contentful Paint, under 2.5 s): optimise the hero image, preload key resources, use SSR or caching. INP (Interaction to Next Paint, under 200 ms): keep the main thread free, split long tasks, defer non-critical JavaScript. CLS (Cumulative Layout Shift, under 0.1): reserve space for images, ads and fonts. Measure real users with the `web-vitals` library, not only Lighthouse.\n\n## 7. How do you protect a front-end app against XSS and CSRF?\nXSS: never inject untrusted HTML (`innerHTML`, `dangerouslySetInnerHTML`) without sanitising it (for example with DOMPurify), and add a Content Security Policy. React escapes text by default, but `href=\"javascript:...\"` and raw HTML are still risky. CSRF: use `SameSite` cookies, CSRF tokens for cookie-based auth, and check `Origin`. Keep tokens out of `localStorage` when possible and never put secrets in client code.\n\n## 8. How do you keep heavy work from freezing the UI?\nMove CPU-heavy work (parsing, image processing, large sorts) to a Web Worker. Split long tasks into chunks and yield to the browser between them (`scheduler.yield()` where supported, or `setTimeout`). In React, use `useTransition` or `useDeferredValue` for expensive re-renders, and virtualise long lists.\n\n```js\n// worker.js\nself.onmessage = (e) => self.postMessage(heavySort(e.data))\n\n// main.js\nconst worker = new Worker(new URL('./worker.js', import.meta.url), { type: 'module' })\nworker.onmessage = (e) => render(e.data)\nworker.postMessage(bigArray)\n```\n\n## 9. How do you cancel requests and avoid race conditions?\nUse `AbortController`: pass its `signal` to `fetch` and call `abort()` when the input changes or the component unmounts. That way an older, slower response can never overwrite a newer one. Libraries such as React Query do this for you.\n\n```js\nuseEffect(() => {\n  const controller = new AbortController()\n  fetch('/api/search?q=' + query, { signal: controller.signal })\n    .then((r) => r.json())\n    .then(setResults)\n    .catch((err) => { if (err.name !== 'AbortError') setError(err) })\n  return () => controller.abort()\n}, [query])\n```\n\n## 10. Implement a small event emitter (observer pattern).\nThe observer (pub/sub) pattern decouples the parts of an app: publishers emit events without knowing who listens. Returning an unsubscribe function from `on` makes cleanup easy, the same idea as an effect cleanup in React.\n\n```js\nclass Emitter {\n  #listeners = new Map()\n  on(event, fn) {\n    if (!this.#listeners.has(event)) this.#listeners.set(event, new Set())\n    this.#listeners.get(event).add(fn)\n    return () => this.#listeners.get(event).delete(fn)\n  }\n  emit(event, payload) {\n    this.#listeners.get(event)?.forEach((fn) => fn(payload))\n  }\n}\n```\n\n> Next: React, starting with the fundamentals in part 4.",
+        "ar": "تنتقل مقابلات المطور الأول من سؤال \"ما هو\" إلى \"لماذا\" و\"كيف ستفعل\". تختبر هذه الأسئلة قدرتك على التفكير في المتصفح والأداء والأمان، لا اللغة فقط.\n\n## 1. ما أسباب تسرّب الذاكرة في تطبيقات الواجهات الأمامية، وكيف تكتشفه؟\nالأسباب الشائعة: مستمعو أحداث ومؤقتات واشتراكات لا تُزال، وعناصر DOM منفصلة ما زال JavaScript يشير إليها، وذاكرات تخزين مؤقت تكبر باستمرار، و closures تحتفظ بكائنات كبيرة. اكتشفها بلقطات الذاكرة (heap snapshots) في Chrome DevTools (قارن قبل الإجراء وبعده) وبأداة Performance monitor. واستخدم `WeakMap` للتخزين المؤقت المرتبط بكائنات حتى يمكن جمع عناصره.\n\n```js\nuseEffect(() => {\n  const onResize = () => setWidth(window.innerWidth)\n  window.addEventListener('resize', onResize)\n  return () => window.removeEventListener('resize', onResize) // no leak\n}, [])\n```\n\n## 2. اكتب تطبيقًا لـ `Promise.all`.\nاحفظ النتائج بالترتيب، وعُدّ الـ promises المنتهية، وحُلّ عند انتهاء الجميع، وارفض عند أول خطأ. تغليف كل عنصر بـ `Promise.resolve` يتعامل مع القيم العادية أيضًا.\n\n```js\nfunction promiseAll(items) {\n  return new Promise((resolve, reject) => {\n    const results = []\n    let done = 0\n    if (items.length === 0) return resolve(results)\n    items.forEach((item, i) => {\n      Promise.resolve(item).then((value) => {\n        results[i] = value\n        if (++done === items.length) resolve(results)\n      }, reject)\n    })\n  })\n}\n```\n\n## 3. فيمَ تُستخدم الـ Generators والـ Iterators؟\nالـ iterator كائن لديه دالة `next()`؛ وأي كائن يملك `[Symbol.iterator]` يعمل مع `for...of` والـ spread. والـ generators (`function*`) تنشئ iterators تتوقف عند `yield`، وهي مناسبة للتسلسلات الكسولة وتقسيم الصفحات وهياكل البيانات المخصصة. والـ generators غير المتزامنة مع `for await...of` مثالية للتدفقات والواجهات المقسمة إلى صفحات.\n\n```js\nasync function* fetchPages(url) {\n  let next = url\n  while (next) {\n    const res = await fetch(next).then((r) => r.json())\n    yield res.items\n    next = res.nextPage\n  }\n}\nfor await (const items of fetchPages('/api/posts')) render(items)\n```\n\n## 4. ما هما `Proxy` و `Reflect`؟\n`Proxy` يغلّف كائنًا ويعترض العمليات مثل القراءة والكتابة والحذف عبر ما يسمى traps. وعليه تقوم التفاعلية في مكتبات مثل Vue و MobX، وكذلك التحقق والتسجيل. أما `Reflect` فيوفّر السلوك الافتراضي لهذه العمليات، فتستدعيه الـ traps لتمرير العملية بشكل صحيح.\n\n```js\nconst state = new Proxy({}, {\n  set(target, key, value) {\n    console.log('changed', key)\n    return Reflect.set(target, key, value)\n  },\n})\nstate.theme = 'dark' // logs: changed theme\n```\n\n## 5. ما هو مسار الرسم الحرج (Critical Rendering Path)؟ وما الـ Reflow والـ Repaint؟\nيحلل المتصفح HTML إلى DOM و CSS إلى CSSOM، ثم يدمجهما في شجرة رسم، ويحسب التخطيط (reflow)، ويرسم البكسلات (paint)، ثم يركّب الطبقات (composite). تغيير الأبعاد يسبب reflow وهو مكلف؛ وتغيير الألوان يسبب repaint فقط؛ أما `transform` و `opacity` فيمكن أن يعالجهما المركِّب وحده. وتجنّب تذبذب التخطيط (layout thrashing) بتجميع قراءات الـ DOM قبل الكتابة.\n\n```js\n// Thrashing: read/write/read/write\nitems.forEach((el) => { el.style.width = el.offsetWidth + 10 + 'px' })\n// Better: read everything, then write\nconst widths = items.map((el) => el.offsetWidth)\nitems.forEach((el, i) => { el.style.width = widths[i] + 10 + 'px' })\n```\n\n## 6. ما هي مقاييس Core Web Vitals، وكيف تحسّنها؟\nLCP (أكبر رسم للمحتوى، أقل من 2.5 ثانية): حسّن الصورة الرئيسية، وحمّل الموارد المهمة مسبقًا، واستخدم SSR أو التخزين المؤقت. و INP (زمن الاستجابة للتفاعل، أقل من 200 مللي ثانية): أبقِ الخيط الرئيسي متاحًا، وقسّم المهام الطويلة، وأجّل JavaScript غير الضروري. و CLS (إزاحة التخطيط التراكمية، أقل من 0.1): احجز مساحة للصور والإعلانات والخطوط. وقِس تجربة المستخدمين الحقيقيين بمكتبة `web-vitals` وليس Lighthouse فقط.\n\n## 7. كيف تحمي تطبيق الواجهة الأمامية من هجمات XSS و CSRF؟\nXSS: لا تحقن HTML غير موثوق (`innerHTML` و `dangerouslySetInnerHTML`) دون تنقيته (مثلًا بمكتبة DOMPurify)، وأضف سياسة أمان المحتوى (CSP). يقوم React بتهريب النصوص افتراضيًا، لكن `href=\"javascript:...\"` و HTML الخام ما زالا خطرين. CSRF: استخدم ملفات تعريف الارتباط بخاصية `SameSite`، ورموز CSRF عند المصادقة بالكوكيز، وتحقق من `Origin`. وتجنّب حفظ الرموز في `localStorage` قدر الإمكان، ولا تضع أسرارًا في كود العميل أبدًا.\n\n## 8. كيف تمنع الأعمال الثقيلة من تجميد الواجهة؟\nانقل الأعمال التي تستهلك المعالج (التحليل ومعالجة الصور والفرز الكبير) إلى Web Worker. وقسّم المهام الطويلة إلى أجزاء وأعطِ المتصفح فرصة بينها (`scheduler.yield()` حيث يُدعم، أو `setTimeout`). وفي React استخدم `useTransition` أو `useDeferredValue` لعمليات الرسم المكلفة، واعرض القوائم الطويلة بأسلوب الـ virtualization.\n\n```js\n// worker.js\nself.onmessage = (e) => self.postMessage(heavySort(e.data))\n\n// main.js\nconst worker = new Worker(new URL('./worker.js', import.meta.url), { type: 'module' })\nworker.onmessage = (e) => render(e.data)\nworker.postMessage(bigArray)\n```\n\n## 9. كيف تلغي الطلبات وتتجنّب حالات التسابق (Race Conditions)؟\nاستخدم `AbortController`: مرّر `signal` الخاص به إلى `fetch` واستدعِ `abort()` عند تغيّر المدخلات أو إزالة المكوّن. بذلك لا يمكن لاستجابة أقدم وأبطأ أن تستبدل استجابة أحدث. ومكتبات مثل React Query تقوم بذلك نيابة عنك.\n\n```js\nuseEffect(() => {\n  const controller = new AbortController()\n  fetch('/api/search?q=' + query, { signal: controller.signal })\n    .then((r) => r.json())\n    .then(setResults)\n    .catch((err) => { if (err.name !== 'AbortError') setError(err) })\n  return () => controller.abort()\n}, [query])\n```\n\n## 10. اكتب باعث أحداث بسيطًا (نمط المراقب Observer).\nنمط المراقب (pub/sub) يفصل أجزاء التطبيق: الناشر يرسل الأحداث دون أن يعرف من يستمع. وإعادة دالة لإلغاء الاشتراك من `on` تسهّل التنظيف، وهي الفكرة نفسها في دالة تنظيف الـ effect في React.\n\n```js\nclass Emitter {\n  #listeners = new Map()\n  on(event, fn) {\n    if (!this.#listeners.has(event)) this.#listeners.set(event, new Set())\n    this.#listeners.get(event).add(fn)\n    return () => this.#listeners.get(event).delete(fn)\n  }\n  emit(event, payload) {\n    this.#listeners.get(event)?.forEach((fn) => fn(payload))\n  }\n}\n```\n\n> التالي: React، بدءًا من الأساسيات في الجزء 4."
+      },
+      "tags": [
+        "Interview",
+        "JavaScript",
+        "Advanced"
+      ],
+      "date": "2026-10-03",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_react_fundamentals",
+      "slug": "react-interview-questions-fundamentals",
+      "title": {
+        "en": "React interview questions, part 4: fundamentals",
+        "ar": "أسئلة مقابلات React، الجزء 4: الأساسيات"
+      },
+      "excerpt": {
+        "en": "Rendering, JSX, props and state, keys, effects and forms: the React basics interviewers always check.",
+        "ar": "الرسم و JSX والـ props والحالة والمفاتيح والـ effects والنماذج: أساسيات React التي يتحقق منها المُقابِلون دائمًا."
+      },
+      "content": {
+        "en": "Part 4 starts the React half of the series. Even for senior roles, interviews open with these questions, and precise answers set the tone for the rest of the conversation.\n\n## 1. How does React update the UI?\nComponents are functions of props and state that return a description of the UI. When state changes, React re-renders the component, compares the new element tree with the previous one (reconciliation) and applies the minimal set of DOM changes in the commit phase. The \"virtual DOM\" is that in-memory tree.\n\n## 2. What does JSX compile to?\nJSX is syntax sugar for function calls that create React elements: plain objects describing type, props and children. With the modern JSX transform it compiles to `jsx()` calls from `react/jsx-runtime`, so you no longer need to import React in every file. Expressions go inside `{}`, and attributes use camelCase (`className`, `onClick`).\n\n```jsx\n<Button variant=\"primary\">Save</Button>\n// becomes\njsx(Button, { variant: 'primary', children: 'Save' })\n```\n\n## 3. What is the difference between props and state?\nProps are inputs passed from the parent; they are read-only inside the component. State is data the component owns and changes over time with `useState` or `useReducer`; updating it schedules a re-render. If a value can be computed from props or other state, derive it during render instead of storing it in state.\n\n## 4. Why do lists need keys? Is the index a good key?\nKeys tell React which item is which between renders, so it can keep the right state and DOM nodes when items are added, removed or reordered. The array index only works for static lists: when the order changes, state (for example input values) ends up attached to the wrong item. Use a stable, unique id from your data.\n\n```jsx\n{todos.map((todo) => (\n  <TodoItem key={todo.id} todo={todo} />\n))}\n```\n\n## 5. What are controlled and uncontrolled inputs?\nA controlled input gets its value from React state and updates it in `onChange`, which makes validation and formatting easy. An uncontrolled input keeps its own value in the DOM; you read it with a ref or from `FormData` on submit. React 19 form actions make uncontrolled forms with `FormData` a clean default for simple forms.\n\n```jsx\nconst [email, setEmail] = useState('')\n<input value={email} onChange={(e) => setEmail(e.target.value)} />  // controlled\n<input name=\"email\" defaultValue=\"\" />                           // uncontrolled\n```\n\n## 6. Why use a functional update with `setState`?\nState updates are batched and applied on the next render, so `count` inside a handler is a snapshot. Calling `setCount(count + 1)` three times adds 1. Passing a function, `setCount((c) => c + 1)`, uses the latest queued value and adds 3. Use it whenever the new state depends on the previous one.\n\n```js\nfunction handleClick() {\n  setCount((c) => c + 1)\n  setCount((c) => c + 1)\n  setCount((c) => c + 1) // +3\n}\n```\n\n## 7. How does `useEffect` work, and when should you avoid it?\n`useEffect` synchronises a component with an external system (network, subscriptions, the DOM, timers) after render. It re-runs when a dependency changes and calls the cleanup function before the next run and on unmount. Don't use it to derive data from props or state, or to respond to events: compute during render, and put event logic in the event handler.\n\n```js\n// Avoid: extra render and state that can drift out of sync\nuseEffect(() => setFullName(first + ' ' + last), [first, last])\n// Better: derive it\nconst fullName = first + ' ' + last\n```\n\n## 8. What is lifting state up? What is composition?\nWhen two components need the same data, move the state to their closest common parent and pass it down with callbacks to change it. Composition means building components from other components via `children` and props instead of inheritance; it also avoids prop drilling by passing ready-made elements down.\n\n```jsx\nfunction Card({ title, children }) {\n  return <section className=\"card\"><h2>{title}</h2>{children}</section>\n}\n<Card title=\"Profile\"><Avatar user={user} /></Card>\n```\n\n## 9. What is the bug in `{count && <Badge />}`?\nIf `count` is `0`, the expression evaluates to `0` and React renders the number 0. Use a boolean condition (`count > 0 && ...`) or a ternary. Also remember that a component returning `null` renders nothing but still runs its hooks.\n\n```jsx\n{count > 0 && <Badge count={count} />}\n{isLoading ? <Spinner /> : <List items={items} />}\n```\n\n## 10. Why does `StrictMode` run my effects twice?\nIn development, `StrictMode` renders components twice and mounts, unmounts and remounts them to reveal impure renders and effects without proper cleanup. It does not happen in production. If something breaks, the fix is usually a missing cleanup function, not removing `StrictMode`.\n\n> Next: hooks in depth, context, state management and React 19 forms in part 5.",
+        "ar": "يبدأ الجزء الرابع نصف السلسلة الخاص بـ React. حتى في وظائف المطور الأول تبدأ المقابلات بهذه الأسئلة، والإجابات الدقيقة تحدد نبرة بقية الحوار.\n\n## 1. كيف يحدّث React واجهة المستخدم؟\nالمكوّنات دوال تأخذ الـ props والحالة وتعيد وصفًا للواجهة. وعندما تتغير الحالة يعيد React رسم المكوّن، ويقارن شجرة العناصر الجديدة بالسابقة (reconciliation)، ثم يطبّق أقل مجموعة من تغييرات الـ DOM في مرحلة الـ commit. و\"الـ DOM الافتراضي\" هو تلك الشجرة في الذاكرة.\n\n## 2. إلامَ يتحول JSX عند الترجمة؟\nJSX تجميل لغوي لاستدعاءات دوال تنشئ عناصر React: كائنات عادية تصف النوع والـ props والأبناء. ومع محوّل JSX الحديث يُترجم إلى استدعاءات `jsx()` من `react/jsx-runtime`، فلم تعد بحاجة لاستيراد React في كل ملف. التعابير توضع داخل `{}` والخصائص تُكتب بصيغة camelCase (`className` و `onClick`).\n\n```jsx\n<Button variant=\"primary\">Save</Button>\n// becomes\njsx(Button, { variant: 'primary', children: 'Save' })\n```\n\n## 3. ما الفرق بين الـ props والحالة (state)؟\nالـ props مدخلات يمررها المكوّن الأب، وهي للقراءة فقط داخل المكوّن. أما الحالة فبيانات يملكها المكوّن ويغيّرها بمرور الوقت عبر `useState` أو `useReducer`، وتحديثها يجدول إعادة رسم. وإذا أمكن حساب قيمة من الـ props أو حالة أخرى فاحسبها أثناء الرسم بدلًا من تخزينها في الحالة.\n\n## 4. لماذا تحتاج القوائم إلى مفاتيح (keys)؟ وهل الفهرس مفتاح جيد؟\nالمفاتيح تخبر React أي عنصر هو أي عنصر بين مرات الرسم، ليحافظ على الحالة وعناصر الـ DOM الصحيحة عند الإضافة أو الحذف أو إعادة الترتيب. والفهرس يصلح للقوائم الثابتة فقط: عند تغيّر الترتيب ترتبط الحالة (مثل قيم الحقول) بالعنصر الخطأ. استخدم معرّفًا ثابتًا وفريدًا من بياناتك.\n\n```jsx\n{todos.map((todo) => (\n  <TodoItem key={todo.id} todo={todo} />\n))}\n```\n\n## 5. ما الفرق بين الحقول المتحكَّم بها وغير المتحكَّم بها؟\nالحقل المتحكَّم به يأخذ قيمته من حالة React ويحدّثها في `onChange`، مما يسهّل التحقق والتنسيق. أما غير المتحكَّم به فيحتفظ بقيمته في الـ DOM وتقرؤها عبر ref أو من `FormData` عند الإرسال. وتجعل إجراءات النماذج في React 19 النماذج غير المتحكَّم بها مع `FormData` خيارًا افتراضيًا نظيفًا للنماذج البسيطة.\n\n```jsx\nconst [email, setEmail] = useState('')\n<input value={email} onChange={(e) => setEmail(e.target.value)} />  // controlled\n<input name=\"email\" defaultValue=\"\" />                           // uncontrolled\n```\n\n## 6. لماذا تستخدم التحديث الدالّي مع `setState`؟\nتحديثات الحالة تُجمَّع وتُطبَّق في الرسم التالي، لذا فإن `count` داخل المعالج لقطة ثابتة. استدعاء `setCount(count + 1)` ثلاث مرات يضيف 1 فقط. أما تمرير دالة `setCount((c) => c + 1)` فيستخدم أحدث قيمة في الطابور ويضيف 3. استخدمه كلما اعتمدت الحالة الجديدة على السابقة.\n\n```js\nfunction handleClick() {\n  setCount((c) => c + 1)\n  setCount((c) => c + 1)\n  setCount((c) => c + 1) // +3\n}\n```\n\n## 7. كيف يعمل `useEffect`، ومتى يجب تجنّبه؟\n`useEffect` يزامن المكوّن مع نظام خارجي (الشبكة والاشتراكات والـ DOM والمؤقتات) بعد الرسم. ويُعاد تنفيذه عند تغيّر أحد الاعتماديات، ويستدعي دالة التنظيف قبل التنفيذ التالي وعند إزالة المكوّن. لا تستخدمه لاشتقاق بيانات من الـ props أو الحالة أو للاستجابة للأحداث: احسب أثناء الرسم، وضع منطق الأحداث في معالج الحدث.\n\n```js\n// Avoid: extra render and state that can drift out of sync\nuseEffect(() => setFullName(first + ' ' + last), [first, last])\n// Better: derive it\nconst fullName = first + ' ' + last\n```\n\n## 8. ما معنى رفع الحالة (Lifting State Up)؟ وما التركيب (Composition)؟\nعندما يحتاج مكوّنان إلى البيانات نفسها انقل الحالة إلى أقرب أب مشترك ومرّرها للأسفل مع دوال لتغييرها. أما التركيب فيعني بناء المكوّنات من مكوّنات أخرى عبر `children` والـ props بدلًا من الوراثة، كما يقلل من تمرير الـ props عبر مستويات كثيرة (prop drilling) بتمرير عناصر جاهزة.\n\n```jsx\nfunction Card({ title, children }) {\n  return <section className=\"card\"><h2>{title}</h2>{children}</section>\n}\n<Card title=\"Profile\"><Avatar user={user} /></Card>\n```\n\n## 9. ما المشكلة في `{count && <Badge />}`؟\nإذا كانت `count` تساوي `0` فإن التعبير يعيد `0` ويعرض React الرقم 0. استخدم شرطًا منطقيًا (`count > 0 && ...`) أو عاملًا ثلاثيًا. وتذكّر أن المكوّن الذي يعيد `null` لا يعرض شيئًا لكنه ما زال ينفّذ الـ hooks الخاصة به.\n\n```jsx\n{count > 0 && <Badge count={count} />}\n{isLoading ? <Spinner /> : <List items={items} />}\n```\n\n## 10. لماذا يشغّل `StrictMode` الـ effects مرتين؟\nفي وضع التطوير يرسم `StrictMode` المكوّنات مرتين ويركّبها ثم يزيلها ثم يعيد تركيبها، ليكشف الرسم غير النقي والـ effects التي تفتقر إلى تنظيف صحيح. ولا يحدث ذلك في الإنتاج. وإذا تعطّل شيء فالحل غالبًا إضافة دالة تنظيف مفقودة، وليس إزالة `StrictMode`.\n\n> التالي: الـ hooks بعمق والـ Context وإدارة الحالة ونماذج React 19 في الجزء 5."
+      },
+      "tags": [
+        "Interview",
+        "React",
+        "Fundamentals"
+      ],
+      "date": "2026-10-04",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_react_intermediate",
+      "slug": "react-interview-questions-intermediate",
+      "title": {
+        "en": "React interview questions, part 5: intermediate",
+        "ar": "أسئلة مقابلات React، الجزء 5: المستوى المتوسط"
+      },
+      "excerpt": {
+        "en": "Rules of hooks, memoization, refs, context, custom hooks, state management, error boundaries and React 19 actions.",
+        "ar": "قواعد الـ hooks والـ memoization والـ refs والـ Context والـ hooks المخصصة وإدارة الحالة وحدود الأخطاء وإجراءات React 19."
+      },
+      "content": {
+        "en": "Part 5 covers the questions that show whether you can build and maintain real React applications, not just tutorials.\n\n## 1. What are the rules of hooks, and why do they exist?\nCall hooks only at the top level of components or custom hooks, never inside conditions, loops or nested functions. React identifies each hook by its call order, so the order must be the same on every render. The new `use` API is the exception: it can be called conditionally.\n\n## 2. When should you use `useMemo`, `useCallback` and `React.memo`?\n`useMemo` caches an expensive computation, `useCallback` caches a function identity, and `React.memo` skips re-rendering a component when its props are unchanged. They only help when a re-render is actually expensive or when stable identities are needed (memoized children, effect dependencies). Measure with the Profiler first. The React Compiler can now add this memoization automatically.\n\n```js\nconst visible = useMemo(() => filterTodos(todos, tab), [todos, tab])\nconst onSelect = useCallback((id) => setSelected(id), [])\nconst Row = memo(function Row({ item, onSelect }) { /* ... */ })\n```\n\n## 3. What is `useRef` for?\n`useRef` returns a mutable object whose `.current` survives re-renders without causing them. Use it for DOM nodes (focus, measuring, scrolling) and for values that aren't shown in the UI: timer ids, previous values, or the latest callback. Don't read or write `ref.current` during render. In React 19, `ref` is a normal prop, so `forwardRef` is no longer needed.\n\n```jsx\nfunction SearchInput({ ref, ...props }) {\n  return <input ref={ref} {...props} />\n}\nconst inputRef = useRef(null)\n<SearchInput ref={inputRef} />\ninputRef.current.focus()\n```\n\n## 4. When is Context a good choice, and what are its performance pitfalls?\nContext is good for data many components need that changes rarely: theme, language, the current user. Every consumer re-renders when the value changes, so memoize the value object, split unrelated values into separate contexts, and keep fast-changing state elsewhere (local state or a store with selectors). In React 19 you render `<ThemeContext value={...}>` directly and read it with `use(ThemeContext)`.\n\n```jsx\nconst ThemeContext = createContext('light')\nfunction App() {\n  const [theme, setTheme] = useState('light')\n  return <ThemeContext value={theme}><Page /></ThemeContext>\n}\nconst theme = use(ThemeContext)\n```\n\n## 5. Write a custom hook.\nA custom hook is a function starting with `use` that combines other hooks to reuse stateful logic. It shares logic, not state: each component that calls it gets its own state.\n\n```js\nfunction useDebouncedValue(value, delay = 300) {\n  const [debounced, setDebounced] = useState(value)\n  useEffect(() => {\n    const id = setTimeout(() => setDebounced(value), delay)\n    return () => clearTimeout(id)\n  }, [value, delay])\n  return debounced\n}\n```\n\n## 6. How do you choose a state management approach?\nSeparate server state from client state. Server data (lists, details, caching, refetching) belongs in React Query, SWR or RTK Query. For client state: start with local state; lift it or use context for shared, rarely changing values; use Redux Toolkit or Zustand when many distant components read and update complex state, or when you need devtools, middleware or persistence (for example Redux Persist). Keep URL state (filters, pagination) in the URL.\n\n## 7. When is `useReducer` better than `useState`?\nUse `useReducer` when several values change together, when the next state depends on the previous one in non-trivial ways, or when you want the update logic in a pure, testable function. The `dispatch` function is stable, so it is easy to pass down.\n\n```js\nfunction reducer(state, action) {\n  switch (action.type) {\n    case 'added': return [...state, action.todo]\n    case 'removed': return state.filter((t) => t.id !== action.id)\n    default: return state\n  }\n}\nconst [todos, dispatch] = useReducer(reducer, [])\n```\n\n## 8. What are error boundaries?\nAn error boundary catches errors thrown while rendering its children and shows a fallback UI instead of unmounting the whole app. It does not catch errors in event handlers or async code; handle those with `try/catch`. Boundaries are still class components (`getDerivedStateFromError`), or you can use the `react-error-boundary` package. Place them around routes and risky widgets.\n\n## 9. How do you split code in React?\nUse `lazy(() => import(...))` with `Suspense` to load components only when they render, typically per route or for heavy widgets like editors and charts. The bundler creates a separate chunk. Preload likely next routes on hover or idle time to hide the delay.\n\n```jsx\nconst AdminPanel = lazy(() => import('./admin/AdminPanel'))\n<Suspense fallback={<Spinner />}>\n  <AdminPanel />\n</Suspense>\n```\n\n## 10. How do forms work in React 19?\nYou can pass a function to `<form action>`. React runs it in a transition with the `FormData`. `useActionState` returns the latest result and a pending flag, `useFormStatus` lets a child button read the parent form's status, and `useOptimistic` shows the expected result immediately. Uncontrolled inputs are reset after a successful action.\n\n```jsx\nconst [state, formAction, isPending] = useActionState(async (prev, formData) => {\n  const error = await updateName(formData.get('name'))\n  return error ? { error } : { ok: true }\n}, {})\n\n<form action={formAction}>\n  <input name=\"name\" />\n  <button disabled={isPending}>Save</button>\n  {state.error && <p role=\"alert\">{state.error}</p>}\n</form>\n```\n\n> Next: React internals, concurrency, Server Components, performance and architecture in part 6.",
+        "ar": "يغطي الجزء الخامس الأسئلة التي تكشف قدرتك على بناء تطبيقات React حقيقية وصيانتها، لا مجرد أمثلة تعليمية.\n\n## 1. ما قواعد الـ hooks، ولماذا وُجدت؟\nاستدعِ الـ hooks فقط في المستوى الأعلى من المكوّنات أو الـ hooks المخصصة، وليس داخل الشروط أو الحلقات أو الدوال المتداخلة. يتعرف React على كل hook بترتيب استدعائه، لذا يجب أن يبقى الترتيب نفسه في كل رسم. والاستثناء هو واجهة `use` الجديدة: يمكن استدعاؤها بشكل شرطي.\n\n## 2. متى تستخدم `useMemo` و `useCallback` و `React.memo`؟\n`useMemo` يخزّن نتيجة حساب مكلف، و `useCallback` يخزّن هوية دالة، و `React.memo` يتخطى إعادة رسم المكوّن إذا لم تتغير الـ props. وهي مفيدة فقط عندما تكون إعادة الرسم مكلفة فعلًا أو عند الحاجة إلى هويات ثابتة (أبناء مُخزَّنين أو اعتماديات effect). قِس بالـ Profiler أولًا. ويستطيع React Compiler الآن إضافة هذا التخزين تلقائيًا.\n\n```js\nconst visible = useMemo(() => filterTodos(todos, tab), [todos, tab])\nconst onSelect = useCallback((id) => setSelected(id), [])\nconst Row = memo(function Row({ item, onSelect }) { /* ... */ })\n```\n\n## 3. فيمَ يُستخدم `useRef`؟\n`useRef` يعيد كائنًا قابلًا للتغيير تبقى قيمة `.current` فيه بين مرات الرسم دون أن تسبب رسمًا جديدًا. استخدمه لعناصر الـ DOM (التركيز والقياس والتمرير) وللقيم التي لا تظهر في الواجهة: معرّفات المؤقتات أو القيم السابقة أو آخر callback. لا تقرأ `ref.current` ولا تكتبه أثناء الرسم. وفي React 19 أصبح `ref` خاصية عادية فلم تعد بحاجة إلى `forwardRef`.\n\n```jsx\nfunction SearchInput({ ref, ...props }) {\n  return <input ref={ref} {...props} />\n}\nconst inputRef = useRef(null)\n<SearchInput ref={inputRef} />\ninputRef.current.focus()\n```\n\n## 4. متى يكون الـ Context خيارًا جيدًا، وما مشكلاته في الأداء؟\nالـ Context مناسب للبيانات التي تحتاجها مكوّنات كثيرة ونادرًا ما تتغير: السمة واللغة والمستخدم الحالي. كل مستهلك يُعاد رسمه عند تغيّر القيمة، لذا خزّن كائن القيمة بـ memo، وقسّم القيم غير المترابطة إلى contexts منفصلة، واحفظ الحالة سريعة التغير في مكان آخر (حالة محلية أو store مع selectors). وفي React 19 تكتب `<ThemeContext value={...}>` مباشرة وتقرؤه بـ `use(ThemeContext)`.\n\n```jsx\nconst ThemeContext = createContext('light')\nfunction App() {\n  const [theme, setTheme] = useState('light')\n  return <ThemeContext value={theme}><Page /></ThemeContext>\n}\nconst theme = use(ThemeContext)\n```\n\n## 5. اكتب hook مخصصًا.\nالـ hook المخصص دالة يبدأ اسمها بـ `use` وتجمع hooks أخرى لإعادة استخدام منطق له حالة. وهو يشارك المنطق لا الحالة: كل مكوّن يستدعيه يحصل على حالته الخاصة.\n\n```js\nfunction useDebouncedValue(value, delay = 300) {\n  const [debounced, setDebounced] = useState(value)\n  useEffect(() => {\n    const id = setTimeout(() => setDebounced(value), delay)\n    return () => clearTimeout(id)\n  }, [value, delay])\n  return debounced\n}\n```\n\n## 6. كيف تختار أسلوب إدارة الحالة؟\nافصل حالة الخادم عن حالة العميل. بيانات الخادم (القوائم والتفاصيل والتخزين المؤقت وإعادة الجلب) مكانها React Query أو SWR أو RTK Query. أما حالة العميل: ابدأ بالحالة المحلية؛ ثم ارفعها أو استخدم الـ Context للقيم المشتركة نادرة التغير؛ واستخدم Redux Toolkit أو Zustand عندما تقرأ مكوّنات متباعدة كثيرة حالة معقدة وتحدّثها، أو عند الحاجة إلى أدوات التطوير أو الـ middleware أو الحفظ (مثل Redux Persist). واحفظ حالة الرابط (الفلاتر وأرقام الصفحات) في الرابط نفسه.\n\n## 7. متى يكون `useReducer` أفضل من `useState`؟\nاستخدم `useReducer` عندما تتغير عدة قيم معًا، أو عندما تعتمد الحالة التالية على السابقة بطرق غير بسيطة، أو عندما تريد منطق التحديث في دالة نقية قابلة للاختبار. ودالة `dispatch` ثابتة فيسهل تمريرها للأبناء.\n\n```js\nfunction reducer(state, action) {\n  switch (action.type) {\n    case 'added': return [...state, action.todo]\n    case 'removed': return state.filter((t) => t.id !== action.id)\n    default: return state\n  }\n}\nconst [todos, dispatch] = useReducer(reducer, [])\n```\n\n## 8. ما هي حدود الأخطاء (Error Boundaries)؟\nحدّ الأخطاء يلتقط الأخطاء التي تحدث أثناء رسم أبنائه ويعرض واجهة بديلة بدلًا من إزالة التطبيق كله. ولا يلتقط أخطاء معالجات الأحداث أو الكود غير المتزامن؛ تعامل معها بـ `try/catch`. وما زالت الحدود مكوّنات class (`getDerivedStateFromError`)، أو يمكنك استخدام حزمة `react-error-boundary`. ضعها حول المسارات والأجزاء المعرّضة للأخطاء.\n\n## 9. كيف تقسّم الكود (Code Splitting) في React؟\nاستخدم `lazy(() => import(...))` مع `Suspense` لتحميل المكوّنات فقط عند رسمها، عادة لكل مسار أو للأجزاء الثقيلة مثل المحررات والرسوم البيانية. وتنشئ أداة التجميع جزءًا (chunk) منفصلًا. وحمّل المسارات المتوقعة مسبقًا عند تمرير المؤشر أو أوقات الخمول لإخفاء التأخير.\n\n```jsx\nconst AdminPanel = lazy(() => import('./admin/AdminPanel'))\n<Suspense fallback={<Spinner />}>\n  <AdminPanel />\n</Suspense>\n```\n\n## 10. كيف تعمل النماذج في React 19؟\nيمكنك تمرير دالة إلى `<form action>` فينفّذها React داخل transition مع الـ `FormData`. و `useActionState` يعيد آخر نتيجة ومؤشر انتظار، و `useFormStatus` يتيح لزر داخلي قراءة حالة النموذج الأب، و `useOptimistic` يعرض النتيجة المتوقعة فورًا. وتُعاد الحقول غير المتحكَّم بها إلى قيمها الأولى بعد نجاح الإجراء.\n\n```jsx\nconst [state, formAction, isPending] = useActionState(async (prev, formData) => {\n  const error = await updateName(formData.get('name'))\n  return error ? { error } : { ok: true }\n}, {})\n\n<form action={formAction}>\n  <input name=\"name\" />\n  <button disabled={isPending}>Save</button>\n  {state.error && <p role=\"alert\">{state.error}</p>}\n</form>\n```\n\n> التالي: آلية عمل React الداخلية والتزامن و Server Components والأداء والمعمارية في الجزء 6."
+      },
+      "tags": [
+        "Interview",
+        "React",
+        "Intermediate"
+      ],
+      "date": "2026-10-05",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_react_advanced",
+      "slug": "react-interview-questions-advanced-senior",
+      "title": {
+        "en": "React interview questions, part 6: advanced and senior",
+        "ar": "أسئلة مقابلات React، الجزء 6: المستوى المتقدم والمطور الأول"
+      },
+      "excerpt": {
+        "en": "Fiber, concurrent rendering, Server Components, SSR and hydration, performance, architecture, testing and front-end system design.",
+        "ar": "Fiber والرسم المتزامن و Server Components و SSR والـ hydration والأداء والمعمارية والاختبارات وتصميم أنظمة الواجهات الأمامية."
+      },
+      "content": {
+        "en": "The final part covers what senior front-end interviews focus on: how React works internally, how to make apps fast at scale, and how you make architecture decisions. Explain trade-offs, not just definitions.\n\n## 1. What is React Fiber? What are the render and commit phases?\nFiber is React's reconciliation engine: each element becomes a unit of work that React can pause, resume, prioritise or throw away. In the render phase React calls components and computes changes; it must be pure because it can be interrupted or repeated. In the commit phase React applies DOM changes synchronously, then runs layout effects and, later, passive effects.\n\n## 2. What do `useTransition` and `useDeferredValue` solve?\nConcurrent rendering lets urgent updates (typing, clicking) interrupt non-urgent ones. `startTransition` marks a state update as non-urgent, so the UI stays responsive and `isPending` can show progress. `useDeferredValue` gives you a lagging copy of a value for expensive children, which is useful when you don't control the state update.\n\n```jsx\nconst [isPending, startTransition] = useTransition()\nfunction selectTab(tab) {\n  startTransition(() => setTab(tab)) // keeps clicks responsive\n}\nconst deferredQuery = useDeferredValue(query)\n<Results query={deferredQuery} />\n```\n\n## 3. What are React Server Components?\nServer Components run only on the server (or at build time). They can read data directly, send zero JavaScript to the client, and keep secrets on the server. Client Components (`'use client'`) handle state, effects and browser APIs. Server Functions (`'use server'`) let the client call server code, for example from form actions. A good default is server components for data and layout, with small client islands for interactivity.\n\n```tsx\n// app/posts/page.tsx (Server Component)\nexport default async function Posts() {\n  const posts = await db.post.findMany()\n  return <PostList posts={posts} />\n}\n\n// LikeButton.tsx\n'use client'\nexport function LikeButton() { const [liked, setLiked] = useState(false) /* ... */ }\n```\n\n## 4. Compare CSR, SSR, SSG and ISR. What is hydration?\nCSR renders in the browser: simple hosting, slower first paint and weaker SEO. SSR renders HTML per request: fresh data and fast first paint, but it costs server time. SSG renders at build time: fastest, but data can be stale. ISR regenerates static pages in the background. Hydration attaches React to server HTML; mismatches happen when server and client render different output (dates, `Math.random`, `window` checks). Streaming SSR with Suspense sends HTML in chunks so slow data doesn't block the whole page.\n\n## 5. A page is slow. How do you find and fix the problem?\nMeasure first: the React DevTools Profiler (what re-rendered and why), the Chrome Performance panel (long tasks), and Lighthouse or real-user Web Vitals. Typical fixes: keep state close to where it is used, split contexts, memoize expensive subtrees, virtualise long lists (`react-window`, TanStack Virtual), debounce input, code-split heavy routes, optimise images, and move data fetching to the server or a cache. Verify every change with the same measurement.\n\n## 6. What are `useOptimistic` and `use`?\n`useOptimistic` shows a temporary state while an async action runs, for example a message marked as sending, and React swaps it for the real state when the action finishes or fails. `use` reads a promise (suspending until it resolves) or a context; unlike other hooks it can be called conditionally. Promises passed to `use` should be created outside render or cached, otherwise each render creates a new one.\n\n```jsx\nconst [optimisticMessages, addOptimistic] = useOptimistic(messages, (state, msg) => [...state, { ...msg, sending: true }])\n\nfunction Comments({ commentsPromise }) {\n  const comments = use(commentsPromise) // suspends until resolved\n  return comments.map((c) => <Comment key={c.id} {...c} />)\n}\n```\n\n## 7. How do you structure a large React codebase and design system?\nOrganise by feature (each feature owns its components, hooks, API and tests) with a shared `ui` layer for design-system primitives. Build primitives as accessible, unstyled or token-based components, and use patterns like compound components (`<Tabs><Tabs.List/></Tabs>`) and headless hooks for flexibility. Enforce boundaries with TypeScript, lint rules and clear public exports, and document components in Storybook.\n\n## 8. What is your testing strategy for a React app?\nFollow the testing trophy: static checks (TypeScript, ESLint) at the base, a few unit tests for pure logic, many integration tests with React Testing Library that render components and interact like a user (queries by role and label, no implementation details), and a small set of end-to-end tests in Playwright for critical flows. Mock the network at the boundary with MSW, and run everything in CI.\n\n```js\ntest('submits the contact form', async () => {\n  render(<Contact />)\n  await userEvent.type(screen.getByLabelText('Email'), 'hr@example.com')\n  await userEvent.click(screen.getByRole('button', { name: 'Send' }))\n  expect(await screen.findByText(/message was sent/i)).toBeInTheDocument()\n})\n```\n\n## 9. How do you handle accessibility, internationalisation and RTL?\nAccessibility: semantic HTML first, labels for every input, visible focus, keyboard support, ARIA only when native elements aren't enough, and testing with axe and a screen reader. i18n: keep strings in translation files (with i18next or a context), format dates and numbers with `Intl`, and set `lang` and `dir` on `<html>`. For RTL use CSS logical properties (`margin-inline-start`, Tailwind `ms-*`), mirror directional icons, and keep code and numbers LTR.\n\n## 10. Design the front end of a real-time analytics dashboard.\nClarify requirements first (users, data volume, update frequency, offline needs). Then cover:\n- **Data:** REST or GraphQL for the initial load, WebSocket or SSE for live updates merged into a normalised cache (React Query or RTK Query), with throttled UI updates.\n- **Rendering:** virtualised tables, charts updated with `useTransition`, and web workers for aggregation.\n- **Resilience:** reconnect with backoff, optimistic updates with rollback, error boundaries per widget, skeleton states.\n- **Scale:** code splitting per widget, permissions in the API, feature flags.\n- **Quality:** Web Vitals monitoring, error tracking (Sentry) and end-to-end tests.\n\nThen explain the trade-offs you chose.\n\n> That completes the series. Practise by explaining each answer out loud and writing the code without looking.",
+        "ar": "يغطي الجزء الأخير ما تركز عليه مقابلات المطور الأول: كيف يعمل React من الداخل، وكيف تجعل التطبيقات سريعة على نطاق واسع، وكيف تتخذ قرارات المعمارية. اشرح الموازنات (trade-offs) وليس التعريفات فقط.\n\n## 1. ما هو React Fiber؟ وما مرحلتا الرسم (render) والتثبيت (commit)؟\nFiber هو محرك المطابقة في React: كل عنصر يصبح وحدة عمل يستطيع React إيقافها واستئنافها وترتيب أولويتها أو التخلص منها. في مرحلة الرسم يستدعي React المكوّنات ويحسب التغييرات، ويجب أن تكون نقية لأنها قد تُقاطَع أو تُكرَّر. وفي مرحلة التثبيت يطبّق React تغييرات الـ DOM بشكل متزامن، ثم ينفّذ layout effects، وبعدها الـ effects العادية.\n\n## 2. ما المشكلة التي يحلها `useTransition` و `useDeferredValue`؟\nالرسم المتزامن يسمح للتحديثات العاجلة (الكتابة والنقر) بمقاطعة التحديثات غير العاجلة. و `startTransition` يعلّم تحديث الحالة كغير عاجل فتبقى الواجهة سريعة الاستجابة ويمكن عرض التقدم عبر `isPending`. أما `useDeferredValue` فيعطيك نسخة متأخرة من القيمة للأبناء المكلفين، وهو مفيد عندما لا تتحكم في تحديث الحالة.\n\n```jsx\nconst [isPending, startTransition] = useTransition()\nfunction selectTab(tab) {\n  startTransition(() => setTab(tab)) // keeps clicks responsive\n}\nconst deferredQuery = useDeferredValue(query)\n<Results query={deferredQuery} />\n```\n\n## 3. ما هي React Server Components؟\nتعمل Server Components على الخادم فقط (أو وقت البناء). تستطيع قراءة البيانات مباشرة ولا ترسل أي JavaScript إلى العميل وتحتفظ بالأسرار على الخادم. أما Client Components (`'use client'`) فتتعامل مع الحالة والـ effects وواجهات المتصفح. وتتيح Server Functions (`'use server'`) للعميل استدعاء كود الخادم، مثلًا من إجراءات النماذج. والخيار الافتراضي الجيد: مكوّنات خادم للبيانات والتخطيط، مع جزر صغيرة من مكوّنات العميل للتفاعل.\n\n```tsx\n// app/posts/page.tsx (Server Component)\nexport default async function Posts() {\n  const posts = await db.post.findMany()\n  return <PostList posts={posts} />\n}\n\n// LikeButton.tsx\n'use client'\nexport function LikeButton() { const [liked, setLiked] = useState(false) /* ... */ }\n```\n\n## 4. قارن بين CSR و SSR و SSG و ISR. وما هو الـ Hydration؟\nCSR يرسم في المتصفح: استضافة بسيطة لكن ظهور أول محتوى أبطأ و SEO أضعف. و SSR يرسم HTML مع كل طلب: بيانات حديثة وظهور سريع لكنه يستهلك وقت الخادم. و SSG يرسم وقت البناء: الأسرع لكن البيانات قد تكون قديمة. و ISR يعيد توليد الصفحات الثابتة في الخلفية. والـ hydration هو ربط React بـ HTML القادم من الخادم؛ ويحدث عدم التطابق عندما يختلف ناتج الخادم عن العميل (التواريخ و `Math.random` وفحوصات `window`). ويرسل SSR المتدفق مع Suspense الـ HTML على دفعات حتى لا تعطل البيانات البطيئة الصفحة كلها.\n\n## 5. صفحة بطيئة. كيف تكتشف المشكلة وتصلحها؟\nقِس أولًا: Profiler في React DevTools (ما الذي أُعيد رسمه ولماذا)، ولوحة Performance في Chrome (المهام الطويلة)، و Lighthouse أو مقاييس Web Vitals من المستخدمين الحقيقيين. والإصلاحات المعتادة: إبقاء الحالة قريبة من مكان استخدامها، وتقسيم الـ contexts، وتخزين الأشجار الفرعية المكلفة، وعرض القوائم الطويلة بأسلوب virtualization (`react-window` و TanStack Virtual)، وتأخير معالجة المدخلات، وتقسيم المسارات الثقيلة، وتحسين الصور، ونقل جلب البيانات إلى الخادم أو ذاكرة مؤقتة. وتحقق من كل تغيير بالقياس نفسه.\n\n## 6. ما هما `useOptimistic` و `use`؟\n`useOptimistic` يعرض حالة مؤقتة أثناء تنفيذ إجراء غير متزامن، مثل رسالة معلَّمة \"قيد الإرسال\"، ثم يستبدلها React بالحالة الحقيقية عند انتهاء الإجراء أو فشله. و `use` يقرأ promise (ويعلّق الرسم حتى تُحل) أو context؛ وعلى خلاف بقية الـ hooks يمكن استدعاؤه بشكل شرطي. ويجب إنشاء الـ promises الممررة إلى `use` خارج الرسم أو تخزينها، وإلا أُنشئت واحدة جديدة مع كل رسم.\n\n```jsx\nconst [optimisticMessages, addOptimistic] = useOptimistic(messages, (state, msg) => [...state, { ...msg, sending: true }])\n\nfunction Comments({ commentsPromise }) {\n  const comments = use(commentsPromise) // suspends until resolved\n  return comments.map((c) => <Comment key={c.id} {...c} />)\n}\n```\n\n## 7. كيف تنظّم مشروع React كبيرًا ونظام تصميم؟\nنظّم حسب الميزة (كل ميزة تملك مكوّناتها والـ hooks والواجهة البرمجية والاختبارات) مع طبقة `ui` مشتركة لعناصر نظام التصميم الأساسية. وابنِ هذه العناصر كمكوّنات سهلة الوصول وغير منسّقة أو قائمة على design tokens، واستخدم أنماطًا مثل المكوّنات المركّبة (`<Tabs><Tabs.List/></Tabs>`) والـ headless hooks للمرونة. وافرض الحدود بـ TypeScript وقواعد الـ lint وصادرات عامة واضحة، ووثّق المكوّنات في Storybook.\n\n## 8. ما استراتيجيتك لاختبار تطبيق React؟\nاتبع \"كأس الاختبارات\": الفحوصات الثابتة (TypeScript و ESLint) في القاعدة، وقليل من اختبارات الوحدة للمنطق النقي، وكثير من اختبارات التكامل بـ React Testing Library ترسم المكوّنات وتتفاعل كما يفعل المستخدم (البحث بالدور والتسمية دون تفاصيل التطبيق الداخلية)، ومجموعة صغيرة من اختبارات end-to-end في Playwright للمسارات الحرجة. ومحاكاة الشبكة عند الحدود بـ MSW، وتشغيل كل ذلك في CI.\n\n```js\ntest('submits the contact form', async () => {\n  render(<Contact />)\n  await userEvent.type(screen.getByLabelText('Email'), 'hr@example.com')\n  await userEvent.click(screen.getByRole('button', { name: 'Send' }))\n  expect(await screen.findByText(/message was sent/i)).toBeInTheDocument()\n})\n```\n\n## 9. كيف تتعامل مع سهولة الوصول (a11y) وتعدد اللغات و RTL؟\nسهولة الوصول: HTML دلالي أولًا، وتسمية لكل حقل، وتركيز مرئي، ودعم لوحة المفاتيح، واستخدام ARIA فقط عندما لا تكفي العناصر الأصلية، والاختبار بأداة axe وقارئ شاشة. وتعدد اللغات: احفظ النصوص في ملفات ترجمة (عبر i18next أو context)، ونسّق التواريخ والأرقام بـ `Intl`، واضبط `lang` و `dir` على `<html>`. ولـ RTL استخدم خصائص CSS المنطقية (`margin-inline-start` و `ms-*` في Tailwind)، واعكس الأيقونات الاتجاهية، وأبقِ الكود والأرقام بالاتجاه LTR.\n\n## 10. صمّم الواجهة الأمامية للوحة تحليلات تعمل في الوقت الفعلي.\nوضّح المتطلبات أولًا (المستخدمون وحجم البيانات وتكرار التحديث والحاجة للعمل دون اتصال). ثم غطِّ:\n- **البيانات:** REST أو GraphQL للتحميل الأول، و WebSocket أو SSE للتحديثات الحية تُدمج في ذاكرة مؤقتة منظّمة (React Query أو RTK Query)، مع تحديثات واجهة مخففة (throttled).\n- **الرسم:** جداول بأسلوب virtualization، ورسوم بيانية تُحدَّث عبر `useTransition`، و web workers للتجميع.\n- **المرونة:** إعادة الاتصال مع تأخير متزايد، وتحديثات تفاؤلية مع تراجع، وحدود أخطاء لكل جزء، وحالات تحميل هيكلية.\n- **التوسع:** تقسيم الكود لكل جزء، والصلاحيات في الواجهة البرمجية، و feature flags.\n- **الجودة:** مراقبة Web Vitals وتتبع الأخطاء (Sentry) واختبارات end-to-end.\n\nثم اشرح الموازنات التي اخترتها.\n\n> بهذا تكتمل السلسلة. تدرّب بشرح كل إجابة بصوت عالٍ وكتابة الكود دون النظر إليه."
+      },
+      "tags": [
+        "Interview",
+        "React",
+        "Advanced"
+      ],
+      "date": "2026-10-06",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_js_internals",
+      "slug": "javascript-interview-questions-internals-deep-dive",
+      "title": {
+        "en": "JavaScript interview questions, part 7: internals deep dive",
+        "ar": "أسئلة مقابلات JavaScript، الجزء 7: نظرة عميقة على الآلية الداخلية"
+      },
+      "excerpt": {
+        "en": "Execution context, async/await under the hood, freeze vs seal, call/apply/bind and a custom bind, deep clone, Map/Set/WeakMap/WeakSet and garbage collection.",
+        "ar": "سياق التنفيذ، وما يحدث داخل async/await، والفرق بين freeze و seal، و call/apply/bind وكتابة bind، والنسخ العميق، و Map/Set/WeakMap/WeakSet، وجمع القمامة."
+      },
+      "content": {
+        "en": "This bonus part fills the gaps in the series with the internals questions senior interviewers love. They want to see that you understand what the engine does, not only what the syntax looks like.\n\n## 1. How does JavaScript execute code with the call stack and execution contexts?\nThe engine first creates a global execution context. Every function call creates a new execution context and pushes it onto the call stack; when the function returns, it is popped. Each context is built in two phases: the creation phase sets up its lexical environment (registers `var`, function declarations, `let`/`const` in the TDZ, and `this`), and the execution phase runs the code line by line. Lexical scope means variable lookup follows where functions are written in the code, not where they are called, walking outward through parent environments. Too many nested calls overflow the stack (`RangeError: Maximum call stack size exceeded`).\n\n```js\nconst name = 'global'\nfunction outer() {\n  const name = 'outer'\n  function inner() { return name } // lexical scope: 'outer'\n  return inner()\n}\nouter() // stack: global -> outer -> inner\n```\n\n## 2. What happens internally when you use async/await?\nAn `async` function always returns a promise. Each `await` evaluates its expression, wraps it in a promise, and suspends the function: its execution context is saved and removed from the call stack, so other code keeps running. When the awaited promise settles, the rest of the function is scheduled as a microtask and resumes with the saved state, like a generator resumed by a promise runner. A rejected promise is thrown at the `await` line, which is why `try/catch` works. Code after `await` never runs synchronously, even if the value is already available.\n\n```js\nasync function run() {\n  console.log('A')\n  await null          // suspends; the rest becomes a microtask\n  console.log('C')\n}\nrun()\nconsole.log('B')\n// A, B, C\n```\n\n## 3. What is the difference between `Object.freeze`, `Object.seal` and `Object.preventExtensions`?\n`preventExtensions` blocks adding new properties; existing ones can still be changed or deleted. `seal` also blocks deleting and reconfiguring, but values can still change. `freeze` additionally makes every property read-only. All three are shallow: nested objects stay mutable unless you freeze them recursively. In strict mode a blocked write throws a `TypeError`; otherwise it fails silently. Check the state with `Object.isExtensible`, `isSealed` and `isFrozen`.\n\n```js\nconst config = Object.freeze({ api: '/v1', nested: { retries: 3 } })\nconfig.api = '/v2'          // ignored (TypeError in strict mode)\nconfig.nested.retries = 5   // works: freeze is shallow\n\nconst user = Object.seal({ name: 'Mo' })\nuser.name = 'Mohamed'       // allowed\ndelete user.name            // not allowed\n```\n\n## 4. How do `call`, `apply` and `bind` work?\nAll three set `this` explicitly. `call(thisArg, a, b)` invokes the function immediately with arguments listed one by one; `apply(thisArg, [a, b])` invokes it immediately with an array of arguments; `bind(thisArg, a)` returns a new function with `this` (and optionally some leading arguments) fixed, to be called later. A bound function cannot be re-bound, but `new` still overrides its `this`. Arrow functions ignore all three.\n\n```js\nfunction greet(greeting, mark) { return greeting + ', ' + this.name + mark }\nconst user = { name: 'Mo' }\ngreet.call(user, 'Hi', '!')      // 'Hi, Mo!'\ngreet.apply(user, ['Hello', '?']) // 'Hello, Mo?'\nconst hi = greet.bind(user, 'Hey')\nhi('.')                           // 'Hey, Mo.'\n```\n\n## 5. Implement a custom `bind()`.\nReturn a function that combines the bound arguments with the call-time arguments and calls the original with the saved `this`. A complete answer also handles `new`: when the bound function is used as a constructor, `this` must be the new instance, and the prototype should be preserved.\n\n```js\nFunction.prototype.myBind = function (thisArg, ...boundArgs) {\n  const fn = this\n  function bound(...args) {\n    const isNew = this instanceof bound\n    return fn.apply(isNew ? this : thisArg, [...boundArgs, ...args])\n  }\n  bound.prototype = Object.create(fn.prototype)\n  return bound\n}\n```\n\n## 6. Implement a deep clone function.\nIn real code use `structuredClone`: it handles nested objects, arrays, `Map`, `Set`, `Date`, typed arrays and circular references, but not functions, DOM nodes or class prototypes. `JSON.parse(JSON.stringify(x))` loses dates, `undefined`, `Map`/`Set` and fails on cycles. In an interview, write a recursive version and use a `WeakMap` to track already-copied objects so circular references don't cause infinite recursion.\n\n```js\nfunction deepClone(value, seen = new WeakMap()) {\n  if (value === null || typeof value !== 'object') return value\n  if (seen.has(value)) return seen.get(value)\n  if (value instanceof Date) return new Date(value)\n  if (value instanceof Map) {\n    const copy = new Map()\n    seen.set(value, copy)\n    value.forEach((v, k) => copy.set(deepClone(k, seen), deepClone(v, seen)))\n    return copy\n  }\n  if (value instanceof Set) {\n    const copy = new Set()\n    seen.set(value, copy)\n    value.forEach((v) => copy.add(deepClone(v, seen)))\n    return copy\n  }\n  const copy = Array.isArray(value) ? [] : Object.create(Object.getPrototypeOf(value))\n  seen.set(value, copy)\n  for (const key of Reflect.ownKeys(value)) copy[key] = deepClone(value[key], seen)\n  return copy\n}\n```\n\n## 7. What is the difference between Map, Set, WeakMap and WeakSet?\n`Map` stores key/value pairs with keys of any type, keeps insertion order, has `size`, and is iterable; it is better than a plain object for dynamic keys and frequent additions and removals. `Set` stores unique values. `WeakMap` and `WeakSet` only accept objects (or non-registered symbols) and hold them weakly: if nothing else references the key, it can be garbage collected along with its entry. Because of that they are not iterable and have no `size`. Use them for private data or caches attached to objects (such as DOM nodes) without causing memory leaks.\n\n```js\nconst visits = new Map([['home', 3]])\nconst tags = new Set(['js', 'js', 'react']) // { 'js', 'react' }\n\nconst metadata = new WeakMap()\nlet el = document.querySelector('#card')\nmetadata.set(el, { clicks: 0 })\nel = null // the element and its metadata can now be collected\n```\n\n## 8. How does garbage collection work, and what causes memory leaks?\nJavaScript engines free memory automatically using reachability: starting from roots (globals, the current call stack, active closures), the collector marks everything reachable and sweeps the rest (mark-and-sweep). V8 is generational: new objects live in a young generation that is collected often and cheaply, and survivors are promoted to an old generation collected less often, mostly incrementally and concurrently to avoid long pauses. Reference counting alone is not used because it cannot free circular references. A leak is memory that stays reachable by mistake: forgotten timers and listeners, global variables, detached DOM nodes, closures holding large data, and caches that only grow. Fix them with cleanup functions, `WeakMap`/`WeakRef`, and bounded caches, and confirm with heap snapshots.\n\n```js\n// Leak: the interval keeps `bigData` reachable forever\nfunction start() {\n  const bigData = new Array(1e6).fill('x')\n  setInterval(() => console.log(bigData.length), 1000)\n}\n// Fix: keep the id and clear it when done\nconst id = setInterval(tick, 1000)\nclearInterval(id)\n```\n\n> That completes the bonus part. Combine it with parts 1 to 3 for a full JavaScript interview preparation.",
+        "ar": "يكمل هذا الجزء الإضافي السلسلة بأسئلة الآلية الداخلية التي يحبها مُقابِلو المطور الأول. هم يريدون أن يروا أنك تفهم ما يفعله المحرك، لا شكل الصيغة فقط.\n\n## 1. كيف ينفّذ JavaScript الكود باستخدام مكدس الاستدعاءات وسياقات التنفيذ؟\nينشئ المحرك أولًا سياق التنفيذ العام. وكل استدعاء دالة ينشئ سياق تنفيذ جديدًا ويضعه في مكدس الاستدعاءات، وعند انتهاء الدالة يُزال منه. ويُبنى كل سياق على مرحلتين: مرحلة الإنشاء تجهّز البيئة المعجمية (تسجّل `var` وتعريفات الدوال و `let`/`const` في الـ TDZ وقيمة `this`)، ومرحلة التنفيذ تشغّل الكود سطرًا بسطر. والنطاق المعجمي (lexical scope) يعني أن البحث عن المتغيرات يتبع مكان كتابة الدوال في الكود لا مكان استدعائها، صعودًا عبر البيئات الأب. والاستدعاءات المتداخلة الكثيرة تملأ المكدس (`RangeError: Maximum call stack size exceeded`).\n\n```js\nconst name = 'global'\nfunction outer() {\n  const name = 'outer'\n  function inner() { return name } // lexical scope: 'outer'\n  return inner()\n}\nouter() // stack: global -> outer -> inner\n```\n\n## 2. ماذا يحدث داخليًا عند استخدام async/await؟\nالدالة `async` تعيد دائمًا promise. وكل `await` يقيّم تعبيره ويغلّفه في promise ثم يعلّق الدالة: يُحفظ سياق تنفيذها ويُزال من المكدس، فيستمر تنفيذ بقية الكود. وعندما يُحل الـ promise المنتظر تُجدوَل بقية الدالة كمهمة دقيقة (microtask) وتُستأنف بالحالة المحفوظة، مثل generator يستأنفه مشغّل promises. والـ promise المرفوض يُرمى كخطأ في سطر الـ `await`، ولهذا يعمل `try/catch`. والكود بعد `await` لا يُنفَّذ بشكل متزامن أبدًا حتى لو كانت القيمة جاهزة.\n\n```js\nasync function run() {\n  console.log('A')\n  await null          // suspends; the rest becomes a microtask\n  console.log('C')\n}\nrun()\nconsole.log('B')\n// A, B, C\n```\n\n## 3. ما الفرق بين `Object.freeze` و `Object.seal` و `Object.preventExtensions`؟\n`preventExtensions` يمنع إضافة خصائص جديدة، مع إمكانية تعديل الموجودة أو حذفها. و `seal` يمنع أيضًا الحذف وإعادة التهيئة، لكن القيم ما زالت قابلة للتعديل. و `freeze` يجعل كل الخصائص للقراءة فقط إضافة إلى ذلك. والثلاثة سطحية: الكائنات المتداخلة تبقى قابلة للتعديل ما لم تجمّدها بشكل متكرر. وفي الوضع الصارم ترمي الكتابة الممنوعة `TypeError`، وإلا تفشل بصمت. وتحقق من الحالة بـ `Object.isExtensible` و `isSealed` و `isFrozen`.\n\n```js\nconst config = Object.freeze({ api: '/v1', nested: { retries: 3 } })\nconfig.api = '/v2'          // ignored (TypeError in strict mode)\nconfig.nested.retries = 5   // works: freeze is shallow\n\nconst user = Object.seal({ name: 'Mo' })\nuser.name = 'Mohamed'       // allowed\ndelete user.name            // not allowed\n```\n\n## 4. كيف تعمل `call` و `apply` و `bind`؟\nالثلاثة تحدد `this` صراحة. `call(thisArg, a, b)` تستدعي الدالة فورًا مع معاملات مفردة؛ و `apply(thisArg, [a, b])` تستدعيها فورًا مع مصفوفة معاملات؛ و `bind(thisArg, a)` تعيد دالة جديدة بقيمة `this` ثابتة (وبعض المعاملات الأولى اختياريًا) لتُستدعى لاحقًا. والدالة المربوطة لا يمكن ربطها مرة أخرى، لكن `new` ما زال يتجاوز قيمة `this` فيها. والدوال السهمية تتجاهل الثلاثة.\n\n```js\nfunction greet(greeting, mark) { return greeting + ', ' + this.name + mark }\nconst user = { name: 'Mo' }\ngreet.call(user, 'Hi', '!')      // 'Hi, Mo!'\ngreet.apply(user, ['Hello', '?']) // 'Hello, Mo?'\nconst hi = greet.bind(user, 'Hey')\nhi('.')                           // 'Hey, Mo.'\n```\n\n## 5. اكتب تطبيقًا مخصصًا لـ `bind()`.\nأعد دالة تدمج المعاملات المربوطة مع معاملات وقت الاستدعاء وتستدعي الدالة الأصلية بقيمة `this` المحفوظة. والإجابة الكاملة تتعامل أيضًا مع `new`: عند استخدام الدالة المربوطة كدالة بناء يجب أن تكون `this` هي الكائن الجديد، مع الحفاظ على الـ prototype.\n\n```js\nFunction.prototype.myBind = function (thisArg, ...boundArgs) {\n  const fn = this\n  function bound(...args) {\n    const isNew = this instanceof bound\n    return fn.apply(isNew ? this : thisArg, [...boundArgs, ...args])\n  }\n  bound.prototype = Object.create(fn.prototype)\n  return bound\n}\n```\n\n## 6. اكتب دالة للنسخ العميق (Deep Clone).\nفي الكود الحقيقي استخدم `structuredClone`: فهو يتعامل مع الكائنات المتداخلة والمصفوفات و `Map` و `Set` و `Date` والمصفوفات المحددة النوع والمراجع الدائرية، لكنه لا يدعم الدوال وعناصر الـ DOM والـ prototypes الخاصة بالـ classes. أما `JSON.parse(JSON.stringify(x))` فيفقد التواريخ و `undefined` و `Map`/`Set` ويفشل مع المراجع الدائرية. وفي المقابلة اكتب نسخة متكررة واستخدم `WeakMap` لتتبع الكائنات المنسوخة حتى لا تسبب المراجع الدائرية تكرارًا لا نهائيًا.\n\n```js\nfunction deepClone(value, seen = new WeakMap()) {\n  if (value === null || typeof value !== 'object') return value\n  if (seen.has(value)) return seen.get(value)\n  if (value instanceof Date) return new Date(value)\n  if (value instanceof Map) {\n    const copy = new Map()\n    seen.set(value, copy)\n    value.forEach((v, k) => copy.set(deepClone(k, seen), deepClone(v, seen)))\n    return copy\n  }\n  if (value instanceof Set) {\n    const copy = new Set()\n    seen.set(value, copy)\n    value.forEach((v) => copy.add(deepClone(v, seen)))\n    return copy\n  }\n  const copy = Array.isArray(value) ? [] : Object.create(Object.getPrototypeOf(value))\n  seen.set(value, copy)\n  for (const key of Reflect.ownKeys(value)) copy[key] = deepClone(value[key], seen)\n  return copy\n}\n```\n\n## 7. ما الفرق بين Map و Set و WeakMap و WeakSet؟\n`Map` يخزن أزواج مفتاح/قيمة بمفاتيح من أي نوع، ويحافظ على ترتيب الإضافة، ولديه `size` وقابل للتكرار، وهو أفضل من الكائن العادي للمفاتيح الديناميكية والإضافة والحذف المتكرر. و `Set` يخزن قيمًا فريدة. أما `WeakMap` و `WeakSet` فيقبلان الكائنات فقط (أو الرموز غير المسجلة) ويحتفظان بها بشكل ضعيف: إذا لم يعد هناك مرجع آخر للمفتاح فيمكن جمعه مع عنصره. ولذلك لا يمكن التكرار عليهما وليس لهما `size`. استخدمهما للبيانات الخاصة أو للتخزين المؤقت المرتبط بكائنات (مثل عناصر الـ DOM) دون التسبب في تسرّب الذاكرة.\n\n```js\nconst visits = new Map([['home', 3]])\nconst tags = new Set(['js', 'js', 'react']) // { 'js', 'react' }\n\nconst metadata = new WeakMap()\nlet el = document.querySelector('#card')\nmetadata.set(el, { clicks: 0 })\nel = null // the element and its metadata can now be collected\n```\n\n## 8. كيف يعمل جمع القمامة (Garbage Collection)، وما أسباب تسرّب الذاكرة؟\nتحرر محركات JavaScript الذاكرة تلقائيًا اعتمادًا على إمكانية الوصول: بدءًا من الجذور (المتغيرات العامة ومكدس الاستدعاءات الحالي والـ closures النشطة) يعلّم الجامع كل ما يمكن الوصول إليه ويمسح الباقي (mark-and-sweep). ومحرك V8 يعتمد الأجيال: الكائنات الجديدة تعيش في جيل صغير يُجمع كثيرًا وبتكلفة قليلة، والناجية منها تُنقل إلى جيل قديم يُجمع بشكل أقل، غالبًا على مراحل وبالتوازي لتجنّب التوقفات الطويلة. ولا يُعتمد عدّ المراجع وحده لأنه لا يستطيع تحرير المراجع الدائرية. والتسرّب هو ذاكرة تبقى قابلة للوصول بالخطأ: مؤقتات ومستمعون منسيّون، ومتغيرات عامة، وعناصر DOM منفصلة، و closures تحتفظ ببيانات كبيرة، وذاكرات مؤقتة تكبر فقط. أصلحه بدوال التنظيف و `WeakMap`/`WeakRef` والذاكرات المؤقتة المحدودة، وتأكد بلقطات الذاكرة (heap snapshots).\n\n```js\n// Leak: the interval keeps `bigData` reachable forever\nfunction start() {\n  const bigData = new Array(1e6).fill('x')\n  setInterval(() => console.log(bigData.length), 1000)\n}\n// Fix: keep the id and clear it when done\nconst id = setInterval(tick, 1000)\nclearInterval(id)\n```\n\n> بهذا يكتمل الجزء الإضافي. اجمعه مع الأجزاء من 1 إلى 3 لاستعداد كامل لمقابلات JavaScript."
+      },
+      "tags": [
+        "Interview",
+        "JavaScript",
+        "Advanced",
+        "Internals"
+      ],
+      "date": "2026-10-07",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_ts_next_rest",
+      "slug": "typescript-nextjs-rest-api-interview-questions",
+      "title": {
+        "en": "Interview questions, part 8: TypeScript, Next.js and REST APIs",
+        "ar": "أسئلة المقابلات، الجزء 8: TypeScript و Next.js و REST API"
+      },
+      "excerpt": {
+        "en": "Types vs interfaces, generics, narrowing, the Next.js App Router and caching, and how to build a solid API layer with React Query.",
+        "ar": "الفرق بين type و interface، والـ generics، وتضييق الأنواع، و App Router في Next.js والتخزين المؤقت، وكيف تبني طبقة API متينة مع React Query."
+      },
+      "content": {
+        "en": "Front-end roles rarely stop at React. This part covers the TypeScript, Next.js and API questions that usually follow the React round.\n\n## 1. What is the difference between `type` and `interface`?\nBoth describe object shapes. `interface` can be extended with `extends` and merged by redeclaring it (useful for augmenting libraries). `type` can also express unions, intersections, tuples, mapped and conditional types. A common convention: `interface` for public object shapes and props, `type` for unions and computed types. Pick one style per codebase and be consistent.\n\n```ts\ninterface User { id: string; name: string }\ninterface Admin extends User { permissions: string[] }\n\ntype Status = 'idle' | 'loading' | 'error'\ntype WithTimestamps<T> = T & { createdAt: Date }\n```\n\n## 2. How do you use generics? Type a reusable fetch helper.\nGenerics let a function, hook or component work with many types while keeping type safety. The caller supplies the type, or TypeScript infers it, so the result is typed without `any`. Add constraints with `extends` when you need certain properties.\n\n```ts\nasync function getJson<T>(url: string, init?: RequestInit): Promise<T> {\n  const res = await fetch(url, init)\n  if (!res.ok) throw new Error('HTTP ' + res.status)\n  return res.json() as Promise<T>\n}\n\nconst users = await getJson<User[]>('/api/users')\n\nfunction byId<T extends { id: string }>(items: T[], id: string) {\n  return items.find((item) => item.id === id)\n}\n```\n\n## 3. Which utility types do you use most, and how do you type React props?\n`Partial`, `Required`, `Pick`, `Omit`, `Record`, `Readonly`, `ReturnType`, `Parameters` and `Awaited` cover most needs. For props, type them directly on the function, use `ReactNode` for children, and reuse native element props with `ComponentProps<'button'>` so a wrapper accepts everything the element does. Type event handlers with the React event types.\n\n```tsx\ntype ButtonProps = ComponentProps<'button'> & { variant?: 'primary' | 'ghost' }\n\nfunction Button({ variant = 'primary', ...props }: ButtonProps) {\n  return <button data-variant={variant} {...props} />\n}\n\ntype UserPreview = Pick<User, 'id' | 'name'>\nconst onChange = (e: React.ChangeEvent<HTMLInputElement>) => setQuery(e.target.value)\n```\n\n## 4. What are `any`, `unknown` and `never`? How do you narrow types?\n`any` turns type checking off. `unknown` accepts anything but forces you to check before using it, so it is the safe choice for API responses and `catch` errors. `never` means a value that cannot exist, useful for exhaustive checks. Narrow with `typeof`, `instanceof`, `in`, custom type guards (`value is User`) and discriminated unions with a shared literal field.\n\n```ts\ntype RequestState<T> =\n  | { status: 'loading' }\n  | { status: 'success'; data: T }\n  | { status: 'error'; error: string }\n\nfunction render(state: RequestState<User>) {\n  switch (state.status) {\n    case 'loading': return 'Loading…'\n    case 'success': return state.data.name\n    case 'error': return state.error\n    default: { const unreachable: never = state; return unreachable }\n  }\n}\n```\n\n## 5. How does the Next.js App Router work?\nRoutes are folders under `app/`; `page.tsx` renders the route, `layout.tsx` wraps child routes and keeps its state between navigations, and `loading.tsx`, `error.tsx` and `not-found.tsx` add Suspense and error boundaries automatically. Components are Server Components by default; add `'use client'` only for interactive parts. Dynamic segments use folders like `[slug]`, and route handlers (`route.ts`) create API endpoints.\n\n```tsx\n// app/blog/[slug]/page.tsx\nexport default async function Post({ params }: { params: Promise<{ slug: string }> }) {\n  const { slug } = await params\n  const post = await getPost(slug)\n  if (!post) notFound()\n  return <Article post={post} />\n}\n```\n\n## 6. How do data fetching and caching work in Next.js?\nFetch data directly in Server Components with `async/await`. You choose freshness per request: static (cached at build), time-based revalidation (`next: { revalidate: 60 }`, which is ISR), or dynamic per request (`cache: 'no-store'`, or reading cookies and headers). After a mutation, refresh data with `revalidatePath` or `revalidateTag`. Server Actions (`'use server'`) handle form submissions and mutations without writing an API route. Caching defaults have changed between versions, so state which version you used.\n\n```ts\nconst posts = await fetch('https://api.example.com/posts', { next: { revalidate: 60, tags: ['posts'] } }).then((r) => r.json())\n\n// app/actions.ts\n'use server'\nexport async function createPost(formData: FormData) {\n  await db.post.create({ data: { title: String(formData.get('title')) } })\n  revalidateTag('posts')\n}\n```\n\n## 7. How do you design the API layer of a React app?\nKeep all HTTP code in one module instead of calling `fetch` inside components:\n- a client with the base URL, JSON handling and auth headers\n- one error type with status, message and field errors, so the UI handles errors the same way everywhere\n- timeouts and cancellation with `AbortController`\n- retries with backoff only for safe, idempotent requests\n- typed functions per resource (`getUsers`, `updateUser`) that components or hooks call\n\nValidate responses at the boundary (for example with Zod) when the backend is not fully trusted.\n\n```ts\nexport class ApiError extends Error {\n  constructor(public status: number, message: string, public details?: unknown) { super(message) }\n}\n\nexport async function api<T>(path: string, init: RequestInit = {}): Promise<T> {\n  const res = await fetch(import.meta.env.VITE_API_URL + path, {\n    ...init,\n    headers: { 'content-type': 'application/json', authorization: 'Bearer ' + getToken(), ...init.headers },\n  })\n  const body = res.status === 204 ? null : await res.json().catch(() => null)\n  if (!res.ok) throw new ApiError(res.status, body?.message ?? res.statusText, body)\n  return body as T\n}\n```\n\n## 8. Why use React Query for server state?\nReact Query (TanStack Query) caches responses by query key and handles loading and error states, deduplicating requests, background refetching, retries, pagination and cancellation. `staleTime` controls how long data counts as fresh. Mutations use `useMutation`, then invalidate related queries or update the cache optimistically and roll back on error. It removes most hand-written `useEffect` + `useState` fetching code.\n\n```tsx\nconst { data: users, isPending, error } = useQuery({\n  queryKey: ['users', page],\n  queryFn: ({ signal }) => api<User[]>('/users?page=' + page, { signal }),\n  staleTime: 60_000,\n})\n\nconst queryClient = useQueryClient()\nconst updateUser = useMutation({\n  mutationFn: (user: User) => api<User>('/users/' + user.id, { method: 'PUT', body: JSON.stringify(user) }),\n  onSuccess: () => queryClient.invalidateQueries({ queryKey: ['users'] }),\n})\n```\n\n## 9. How do you handle authentication tokens and 401 errors?\nPrefer short-lived access tokens with a refresh token in an `httpOnly`, `Secure`, `SameSite` cookie, so JavaScript (and XSS) cannot read it. When a request returns 401, call the refresh endpoint once, queue other requests while it runs, retry them with the new token, and log the user out if the refresh fails. Never put API secrets in front-end code, and guard routes in the UI while the server enforces permissions.\n\n```ts\nlet refreshing: Promise<void> | null = null\n\nasync function withAuthRetry<T>(request: () => Promise<T>): Promise<T> {\n  try {\n    return await request()\n  } catch (error) {\n    if (!(error instanceof ApiError) || error.status !== 401) throw error\n    refreshing ??= refreshSession().finally(() => { refreshing = null })\n    await refreshing\n    return request()\n  }\n}\n```\n\n> That completes part 8. Together with parts 1 to 7, it covers a full senior front-end interview loop.",
+        "ar": "نادرًا ما تتوقف وظائف الواجهات الأمامية عند React. يغطي هذا الجزء أسئلة TypeScript و Next.js والواجهات البرمجية التي تأتي عادة بعد جولة React.\n\n## 1. ما الفرق بين `type` و `interface`؟\nكلاهما يصف شكل الكائنات. يمكن توسيع `interface` بـ `extends` ودمجه بإعادة تعريفه (مفيد لتوسيع المكتبات). أما `type` فيعبّر أيضًا عن الاتحادات والتقاطعات والـ tuples والأنواع المعيّنة (mapped) والشرطية. والعرف الشائع: `interface` لأشكال الكائنات العامة والـ props، و `type` للاتحادات والأنواع المحسوبة. اختر أسلوبًا واحدًا في المشروع والتزم به.\n\n```ts\ninterface User { id: string; name: string }\ninterface Admin extends User { permissions: string[] }\n\ntype Status = 'idle' | 'loading' | 'error'\ntype WithTimestamps<T> = T & { createdAt: Date }\n```\n\n## 2. كيف تستخدم الـ Generics؟ اكتب دالة fetch عامة بأنواع.\nالـ generics تتيح لدالة أو hook أو مكوّن العمل مع أنواع كثيرة مع الحفاظ على أمان الأنواع. يحدد المستدعي النوع أو يستنتجه TypeScript، فتكون النتيجة محددة النوع دون `any`. وأضف قيودًا بـ `extends` عندما تحتاج خصائص معينة.\n\n```ts\nasync function getJson<T>(url: string, init?: RequestInit): Promise<T> {\n  const res = await fetch(url, init)\n  if (!res.ok) throw new Error('HTTP ' + res.status)\n  return res.json() as Promise<T>\n}\n\nconst users = await getJson<User[]>('/api/users')\n\nfunction byId<T extends { id: string }>(items: T[], id: string) {\n  return items.find((item) => item.id === id)\n}\n```\n\n## 3. ما الأنواع المساعدة (Utility Types) التي تستخدمها أكثر، وكيف تكتب أنواع props في React؟\n`Partial` و `Required` و `Pick` و `Omit` و `Record` و `Readonly` و `ReturnType` و `Parameters` و `Awaited` تغطي معظم الاحتياجات. وللـ props اكتب نوعها مباشرة على الدالة، واستخدم `ReactNode` للأبناء، وأعد استخدام خصائص العناصر الأصلية بـ `ComponentProps<'button'>` حتى يقبل المكوّن المغلِّف كل ما يقبله العنصر. واكتب أنواع معالجات الأحداث بأنواع أحداث React.\n\n```tsx\ntype ButtonProps = ComponentProps<'button'> & { variant?: 'primary' | 'ghost' }\n\nfunction Button({ variant = 'primary', ...props }: ButtonProps) {\n  return <button data-variant={variant} {...props} />\n}\n\ntype UserPreview = Pick<User, 'id' | 'name'>\nconst onChange = (e: React.ChangeEvent<HTMLInputElement>) => setQuery(e.target.value)\n```\n\n## 4. ما هي `any` و `unknown` و `never`؟ وكيف تضيّق الأنواع؟\n`any` يعطّل فحص الأنواع. و `unknown` يقبل أي قيمة لكنه يجبرك على التحقق قبل الاستخدام، لذا هو الخيار الآمن لاستجابات الواجهات البرمجية وأخطاء `catch`. و `never` تعني قيمة لا يمكن أن توجد، وهي مفيدة للفحص الشامل. وضيّق الأنواع بـ `typeof` و `instanceof` و `in` ودوال الحماية المخصصة (`value is User`) والاتحادات المميَّزة بحقل حرفي مشترك.\n\n```ts\ntype RequestState<T> =\n  | { status: 'loading' }\n  | { status: 'success'; data: T }\n  | { status: 'error'; error: string }\n\nfunction render(state: RequestState<User>) {\n  switch (state.status) {\n    case 'loading': return 'Loading…'\n    case 'success': return state.data.name\n    case 'error': return state.error\n    default: { const unreachable: never = state; return unreachable }\n  }\n}\n```\n\n## 5. كيف يعمل App Router في Next.js؟\nالمسارات مجلدات داخل `app/`؛ و `page.tsx` يرسم المسار، و `layout.tsx` يغلّف المسارات الفرعية ويحافظ على حالته بين التنقلات، و `loading.tsx` و `error.tsx` و `not-found.tsx` تضيف حدود Suspense والأخطاء تلقائيًا. والمكوّنات Server Components افتراضيًا؛ أضف `'use client'` للأجزاء التفاعلية فقط. والمقاطع الديناميكية تستخدم مجلدات مثل `[slug]`، وملفات `route.ts` تنشئ نقاط API.\n\n```tsx\n// app/blog/[slug]/page.tsx\nexport default async function Post({ params }: { params: Promise<{ slug: string }> }) {\n  const { slug } = await params\n  const post = await getPost(slug)\n  if (!post) notFound()\n  return <Article post={post} />\n}\n```\n\n## 6. كيف يعمل جلب البيانات والتخزين المؤقت في Next.js؟\nاجلب البيانات مباشرة في Server Components باستخدام `async/await`. وتختار مدى حداثة البيانات لكل طلب: ثابتة (مخزنة وقت البناء)، أو إعادة تحقق زمنية (`next: { revalidate: 60 }` وهي ISR)، أو ديناميكية لكل طلب (`cache: 'no-store'` أو قراءة الكوكيز والترويسات). وبعد أي تعديل حدّث البيانات بـ `revalidatePath` أو `revalidateTag`. وتتعامل Server Actions (`'use server'`) مع إرسال النماذج والتعديلات دون كتابة مسار API. وقد تغيرت إعدادات التخزين الافتراضية بين الإصدارات، فاذكر الإصدار الذي استخدمته.\n\n```ts\nconst posts = await fetch('https://api.example.com/posts', { next: { revalidate: 60, tags: ['posts'] } }).then((r) => r.json())\n\n// app/actions.ts\n'use server'\nexport async function createPost(formData: FormData) {\n  await db.post.create({ data: { title: String(formData.get('title')) } })\n  revalidateTag('posts')\n}\n```\n\n## 7. كيف تصمم طبقة الواجهة البرمجية (API) في تطبيق React؟\nاجمع كل كود HTTP في وحدة واحدة بدلًا من استدعاء `fetch` داخل المكوّنات:\n- عميل يحتوي الرابط الأساسي ومعالجة JSON وترويسات المصادقة\n- نوع خطأ موحّد فيه الحالة والرسالة وأخطاء الحقول، حتى تتعامل الواجهة مع الأخطاء بالطريقة نفسها في كل مكان\n- مهلة زمنية وإلغاء عبر `AbortController`\n- إعادة المحاولة مع تأخير متزايد للطلبات الآمنة غير المتغيرة فقط\n- دوال محددة الأنواع لكل مورد (`getUsers` و `updateUser`) تستدعيها المكوّنات أو الـ hooks\n\nوتحقق من الاستجابات عند الحدود (مثلًا بـ Zod) عندما لا تكون الواجهة الخلفية موثوقة بالكامل.\n\n```ts\nexport class ApiError extends Error {\n  constructor(public status: number, message: string, public details?: unknown) { super(message) }\n}\n\nexport async function api<T>(path: string, init: RequestInit = {}): Promise<T> {\n  const res = await fetch(import.meta.env.VITE_API_URL + path, {\n    ...init,\n    headers: { 'content-type': 'application/json', authorization: 'Bearer ' + getToken(), ...init.headers },\n  })\n  const body = res.status === 204 ? null : await res.json().catch(() => null)\n  if (!res.ok) throw new ApiError(res.status, body?.message ?? res.statusText, body)\n  return body as T\n}\n```\n\n## 8. لماذا تستخدم React Query لحالة الخادم؟\nتخزّن React Query (TanStack Query) الاستجابات حسب مفتاح الاستعلام، وتتعامل مع حالات التحميل والخطأ وإزالة الطلبات المكررة وإعادة الجلب في الخلفية وإعادة المحاولة وتقسيم الصفحات والإلغاء. ويتحكم `staleTime` في المدة التي تُعتبر فيها البيانات حديثة. وتستخدم التعديلات `useMutation` ثم تُبطل الاستعلامات المرتبطة أو تحدّث الذاكرة المؤقتة تفاؤليًا مع التراجع عند الخطأ. وهي تغني عن معظم كود الجلب اليدوي بـ `useEffect` و `useState`.\n\n```tsx\nconst { data: users, isPending, error } = useQuery({\n  queryKey: ['users', page],\n  queryFn: ({ signal }) => api<User[]>('/users?page=' + page, { signal }),\n  staleTime: 60_000,\n})\n\nconst queryClient = useQueryClient()\nconst updateUser = useMutation({\n  mutationFn: (user: User) => api<User>('/users/' + user.id, { method: 'PUT', body: JSON.stringify(user) }),\n  onSuccess: () => queryClient.invalidateQueries({ queryKey: ['users'] }),\n})\n```\n\n## 9. كيف تتعامل مع رموز المصادقة وأخطاء 401؟\nفضّل رموز وصول قصيرة العمر مع رمز تحديث (refresh token) في كوكي بخصائص `httpOnly` و `Secure` و `SameSite`، حتى لا يستطيع JavaScript (ولا هجمات XSS) قراءته. وعندما يعيد طلب 401 استدعِ نقطة التحديث مرة واحدة، وضع الطلبات الأخرى في طابور أثناء ذلك، وأعد محاولتها بالرمز الجديد، وسجّل خروج المستخدم إذا فشل التحديث. ولا تضع أسرار الواجهات البرمجية في كود الواجهة الأمامية أبدًا، واحمِ المسارات في الواجهة بينما يفرض الخادم الصلاحيات.\n\n```ts\nlet refreshing: Promise<void> | null = null\n\nasync function withAuthRetry<T>(request: () => Promise<T>): Promise<T> {\n  try {\n    return await request()\n  } catch (error) {\n    if (!(error instanceof ApiError) || error.status !== 401) throw error\n    refreshing ??= refreshSession().finally(() => { refreshing = null })\n    await refreshing\n    return request()\n  }\n}\n```\n\n> بهذا يكتمل الجزء الثامن. ومع الأجزاء من 1 إلى 7 تغطي السلسلة جولة مقابلات كاملة لمطور واجهات أمامية أول."
+      },
+      "tags": [
+        "Interview",
+        "TypeScript",
+        "Next.js",
+        "REST API"
+      ],
+      "date": "2026-10-08",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_react_coding",
+      "slug": "react-coding-interview-tasks",
+      "title": {
+        "en": "React interview questions, part 9: coding tasks with solutions",
+        "ar": "أسئلة مقابلات React، الجزء 9: مهام برمجية مع الحلول"
+      },
+      "excerpt": {
+        "en": "Debounced search, a useFetch hook, a todo list with filters, the useEffect infinite loop, a 10k-row virtualized list, automatic batching and error boundary limits.",
+        "ar": "بحث مع debounce، و hook باسم useFetch، وقائمة مهام مع فلاتر، وحلقة useEffect اللانهائية، وقائمة من 10 آلاف صف، والتجميع التلقائي، وحدود error boundaries."
+      },
+      "content": {
+        "en": "Live coding rounds often ask you to build a small component in 20–30 minutes. These are the most common tasks, with solutions you can explain line by line.\n\n## 1. Build a debounced search input.\nKeep the input value in state so typing stays instant, debounce the value with a custom hook, and fetch only when the debounced value changes. Abort the previous request so an old, slow response can never replace a newer one.\n\n```jsx\nfunction useDebouncedValue(value, delay = 400) {\n  const [debounced, setDebounced] = useState(value)\n  useEffect(() => {\n    const id = setTimeout(() => setDebounced(value), delay)\n    return () => clearTimeout(id)\n  }, [value, delay])\n  return debounced\n}\n\nfunction Search() {\n  const [query, setQuery] = useState('')\n  const [results, setResults] = useState([])\n  const debouncedQuery = useDebouncedValue(query)\n\n  useEffect(() => {\n    if (!debouncedQuery.trim()) return setResults([])\n    const controller = new AbortController()\n    fetch('/api/search?q=' + encodeURIComponent(debouncedQuery), { signal: controller.signal })\n      .then((res) => res.json())\n      .then(setResults)\n      .catch((err) => { if (err.name !== 'AbortError') console.error(err) })\n    return () => controller.abort()\n  }, [debouncedQuery])\n\n  return (\n    <>\n      <input value={query} onChange={(e) => setQuery(e.target.value)} aria-label=\"Search\" />\n      <ul>{results.map((r) => <li key={r.id}>{r.name}</li>)}</ul>\n    </>\n  )\n}\n```\n\n## 2. Write a `useFetch` hook with loading and error states.\nKeep `data`, `error` and `loading` together, reset them when the URL changes, check `res.ok` (fetch does not reject on HTTP errors), and abort on cleanup. Mention that in production you would use React Query, which adds caching, retries and deduplication.\n\n```jsx\nfunction useFetch(url) {\n  const [state, setState] = useState({ data: null, error: null, loading: true })\n\n  useEffect(() => {\n    const controller = new AbortController()\n    setState({ data: null, error: null, loading: true })\n    fetch(url, { signal: controller.signal })\n      .then((res) => {\n        if (!res.ok) throw new Error('HTTP ' + res.status)\n        return res.json()\n      })\n      .then((data) => setState({ data, error: null, loading: false }))\n      .catch((error) => {\n        if (error.name !== 'AbortError') setState({ data: null, error, loading: false })\n      })\n    return () => controller.abort()\n  }, [url])\n\n  return state\n}\n\nconst { data: users, loading, error } = useFetch('/api/users')\n```\n\n## 3. Build a todo list with filters.\nStore only the todos and the active filter; derive the visible list during render instead of keeping it in state. Update immutably, use stable ids as keys, and use a `<form>` so Enter submits.\n\n```jsx\nconst FILTERS = { all: () => true, active: (t) => !t.done, done: (t) => t.done }\n\nfunction Todos() {\n  const [todos, setTodos] = useState([])\n  const [filter, setFilter] = useState('all')\n  const visible = todos.filter(FILTERS[filter]) // derived, not stored\n\n  function add(formData) {\n    const title = String(formData.get('title')).trim()\n    if (title) setTodos((list) => [...list, { id: crypto.randomUUID(), title, done: false }])\n  }\n  const toggle = (id) => setTodos((list) => list.map((t) => (t.id === id ? { ...t, done: !t.done } : t)))\n  const remove = (id) => setTodos((list) => list.filter((t) => t.id !== id))\n\n  return (\n    <>\n      <form action={add}><input name=\"title\" aria-label=\"New todo\" /><button>Add</button></form>\n      {Object.keys(FILTERS).map((name) => (\n        <button key={name} aria-pressed={filter === name} onClick={() => setFilter(name)}>{name}</button>\n      ))}\n      <ul>\n        {visible.map((t) => (\n          <li key={t.id}>\n            <label><input type=\"checkbox\" checked={t.done} onChange={() => toggle(t.id)} /> {t.title}</label>\n            <button onClick={() => remove(t.id)}>Delete</button>\n          </li>\n        ))}\n      </ul>\n    </>\n  )\n}\n```\n\n## 4. Why does this `useEffect` create an infinite loop?\nThe effect sets state, which re-renders the component, which runs the effect again. Typical causes:\n- no dependency array at all\n- an object, array or function created during render used as a dependency, because it is a new reference on every render\n- the effect updates a value it also depends on\n\nFixes: add the correct dependencies, move objects inside the effect or memoize them, depend on primitive values, use a functional update, or remove the effect when the value can be derived during render.\n\n```jsx\n// Bug: `options` is a new object every render -> effect -> setState -> render -> ...\nconst options = { page, size: 20 }\nuseEffect(() => { fetchUsers(options).then(setUsers) }, [options])\n\n// Fix: depend on primitives (or create the object inside the effect)\nuseEffect(() => { fetchUsers({ page, size: 20 }).then(setUsers) }, [page])\n\n// Bug: reads and writes the same state\nuseEffect(() => setCount(count + 1), [count])\n// Fix: don't use an effect for this; update count in the event that causes it\n```\n\n## 5. How do you render a list with 10,000+ rows?\nRendering every row creates thousands of DOM nodes and makes scrolling and typing slow. Virtualization renders only the rows in (and slightly around) the viewport and uses padding to keep the scrollbar size correct. Use TanStack Virtual or react-window, give rows a known or measured height, memoize row components, and combine it with pagination or infinite loading for very large data.\n\n```jsx\nimport { useVirtualizer } from '@tanstack/react-virtual'\n\nfunction BigList({ rows }) {\n  const parentRef = useRef(null)\n  const virtualizer = useVirtualizer({\n    count: rows.length,\n    getScrollElement: () => parentRef.current,\n    estimateSize: () => 40,\n    overscan: 10,\n  })\n  return (\n    <div ref={parentRef} style={{ height: 500, overflow: 'auto' }}>\n      <div style={{ height: virtualizer.getTotalSize(), position: 'relative' }}>\n        {virtualizer.getVirtualItems().map((item) => (\n          <div key={item.key} style={{ position: 'absolute', top: 0, width: '100%', height: item.size, transform: 'translateY(' + item.start + 'px)' }}>\n            {rows[item.index].name}\n          </div>\n        ))}\n      </div>\n    </div>\n  )\n}\n```\n\n## 6. What is automatic batching?\nBatching groups several state updates into one re-render. Before React 18 this only happened inside React event handlers; updates in promises, `setTimeout` or native listeners each caused a separate render. With `createRoot` (React 18+) all updates are batched automatically, wherever they happen. In the rare case you need the DOM updated immediately, wrap the update in `flushSync` from `react-dom`.\n\n```jsx\nsetTimeout(() => {\n  setCount((c) => c + 1)\n  setFlag((f) => !f)\n  // React 17: two renders. React 18+: one render.\n}, 1000)\n\nflushSync(() => setOpen(true)) // DOM is updated before the next line\ndialogRef.current.focus()\n```\n\n## 7. What can error boundaries not catch?\nError boundaries catch errors thrown while rendering, in lifecycle methods and in constructors of components below them. They do not catch:\n- errors in event handlers (use `try/catch`)\n- asynchronous code such as `setTimeout`, promises or `fetch` callbacks, unless you rethrow the error into render (for example by storing it in state)\n- errors during server-side rendering\n- errors thrown in the error boundary itself\n\nPlace boundaries around routes and independent widgets so one failure does not break the whole page, and report errors to a tool like Sentry.\n\n```jsx\nfunction SaveButton() {\n  const [error, setError] = useState(null)\n  if (error) throw error // now the nearest error boundary catches it\n  async function save() {\n    try { await api.save() } catch (err) { setError(err) }\n  }\n  return <button onClick={save}>Save</button>\n}\n```\n\n> That completes the coding part. Practise each task with a timer and explain your choices out loud as you type.",
+        "ar": "كثيرًا ما تطلب جولات البرمجة المباشرة بناء مكوّن صغير في 20 إلى 30 دقيقة. هذه أكثر المهام شيوعًا مع حلول يمكنك شرحها سطرًا بسطر.\n\n## 1. ابنِ حقل بحث مع debounce.\nاحفظ قيمة الحقل في الحالة حتى تبقى الكتابة فورية، وأخّر القيمة بـ hook مخصص، واجلب البيانات فقط عند تغيّر القيمة المؤخَّرة. وألغِ الطلب السابق حتى لا تستبدل استجابة قديمة بطيئة استجابة أحدث.\n\n```jsx\nfunction useDebouncedValue(value, delay = 400) {\n  const [debounced, setDebounced] = useState(value)\n  useEffect(() => {\n    const id = setTimeout(() => setDebounced(value), delay)\n    return () => clearTimeout(id)\n  }, [value, delay])\n  return debounced\n}\n\nfunction Search() {\n  const [query, setQuery] = useState('')\n  const [results, setResults] = useState([])\n  const debouncedQuery = useDebouncedValue(query)\n\n  useEffect(() => {\n    if (!debouncedQuery.trim()) return setResults([])\n    const controller = new AbortController()\n    fetch('/api/search?q=' + encodeURIComponent(debouncedQuery), { signal: controller.signal })\n      .then((res) => res.json())\n      .then(setResults)\n      .catch((err) => { if (err.name !== 'AbortError') console.error(err) })\n    return () => controller.abort()\n  }, [debouncedQuery])\n\n  return (\n    <>\n      <input value={query} onChange={(e) => setQuery(e.target.value)} aria-label=\"Search\" />\n      <ul>{results.map((r) => <li key={r.id}>{r.name}</li>)}</ul>\n    </>\n  )\n}\n```\n\n## 2. اكتب hook باسم `useFetch` مع حالات التحميل والخطأ.\nاحفظ `data` و `error` و `loading` معًا، وأعد ضبطها عند تغيّر الرابط، وتحقق من `res.ok` (فـ fetch لا يرفض عند أخطاء HTTP)، وألغِ الطلب عند التنظيف. واذكر أنك في الإنتاج ستستخدم React Query التي تضيف التخزين المؤقت وإعادة المحاولة وإزالة التكرار.\n\n```jsx\nfunction useFetch(url) {\n  const [state, setState] = useState({ data: null, error: null, loading: true })\n\n  useEffect(() => {\n    const controller = new AbortController()\n    setState({ data: null, error: null, loading: true })\n    fetch(url, { signal: controller.signal })\n      .then((res) => {\n        if (!res.ok) throw new Error('HTTP ' + res.status)\n        return res.json()\n      })\n      .then((data) => setState({ data, error: null, loading: false }))\n      .catch((error) => {\n        if (error.name !== 'AbortError') setState({ data: null, error, loading: false })\n      })\n    return () => controller.abort()\n  }, [url])\n\n  return state\n}\n\nconst { data: users, loading, error } = useFetch('/api/users')\n```\n\n## 3. ابنِ قائمة مهام مع فلاتر.\nاحفظ المهام والفلتر الحالي فقط، واشتق القائمة المعروضة أثناء الرسم بدلًا من حفظها في الحالة. وحدّث البيانات دون تعديل مباشر، واستخدم معرّفات ثابتة كمفاتيح، واستخدم `<form>` حتى يرسل زر Enter النموذج.\n\n```jsx\nconst FILTERS = { all: () => true, active: (t) => !t.done, done: (t) => t.done }\n\nfunction Todos() {\n  const [todos, setTodos] = useState([])\n  const [filter, setFilter] = useState('all')\n  const visible = todos.filter(FILTERS[filter]) // derived, not stored\n\n  function add(formData) {\n    const title = String(formData.get('title')).trim()\n    if (title) setTodos((list) => [...list, { id: crypto.randomUUID(), title, done: false }])\n  }\n  const toggle = (id) => setTodos((list) => list.map((t) => (t.id === id ? { ...t, done: !t.done } : t)))\n  const remove = (id) => setTodos((list) => list.filter((t) => t.id !== id))\n\n  return (\n    <>\n      <form action={add}><input name=\"title\" aria-label=\"New todo\" /><button>Add</button></form>\n      {Object.keys(FILTERS).map((name) => (\n        <button key={name} aria-pressed={filter === name} onClick={() => setFilter(name)}>{name}</button>\n      ))}\n      <ul>\n        {visible.map((t) => (\n          <li key={t.id}>\n            <label><input type=\"checkbox\" checked={t.done} onChange={() => toggle(t.id)} /> {t.title}</label>\n            <button onClick={() => remove(t.id)}>Delete</button>\n          </li>\n        ))}\n      </ul>\n    </>\n  )\n}\n```\n\n## 4. لماذا يسبب هذا `useEffect` حلقة لا نهائية؟\nالـ effect يحدّث الحالة، فيُعاد رسم المكوّن، فيُنفَّذ الـ effect مرة أخرى. الأسباب المعتادة:\n- عدم وجود مصفوفة اعتماديات أصلًا\n- كائن أو مصفوفة أو دالة تُنشأ أثناء الرسم وتُستخدم كاعتمادية، لأنها مرجع جديد في كل رسم\n- الـ effect يحدّث قيمة يعتمد عليها هو نفسه\n\nالحلول: أضف الاعتماديات الصحيحة، أو انقل الكائنات داخل الـ effect أو خزّنها بـ memo، أو اعتمد على قيم بدائية، أو استخدم التحديث الدالّي، أو احذف الـ effect إذا أمكن اشتقاق القيمة أثناء الرسم.\n\n```jsx\n// Bug: `options` is a new object every render -> effect -> setState -> render -> ...\nconst options = { page, size: 20 }\nuseEffect(() => { fetchUsers(options).then(setUsers) }, [options])\n\n// Fix: depend on primitives (or create the object inside the effect)\nuseEffect(() => { fetchUsers({ page, size: 20 }).then(setUsers) }, [page])\n\n// Bug: reads and writes the same state\nuseEffect(() => setCount(count + 1), [count])\n// Fix: don't use an effect for this; update count in the event that causes it\n```\n\n## 5. كيف تعرض قائمة فيها أكثر من 10,000 صف؟\nرسم كل الصفوف ينشئ آلاف عناصر الـ DOM ويجعل التمرير والكتابة بطيئين. والـ virtualization يرسم فقط الصفوف الظاهرة (وقليلًا حولها) ويستخدم مسافات للحفاظ على حجم شريط التمرير الصحيح. استخدم TanStack Virtual أو react-window، واجعل ارتفاع الصفوف معروفًا أو مقاسًا، وخزّن مكوّنات الصفوف بـ memo، وادمج ذلك مع تقسيم الصفحات أو التحميل اللانهائي للبيانات الضخمة جدًا.\n\n```jsx\nimport { useVirtualizer } from '@tanstack/react-virtual'\n\nfunction BigList({ rows }) {\n  const parentRef = useRef(null)\n  const virtualizer = useVirtualizer({\n    count: rows.length,\n    getScrollElement: () => parentRef.current,\n    estimateSize: () => 40,\n    overscan: 10,\n  })\n  return (\n    <div ref={parentRef} style={{ height: 500, overflow: 'auto' }}>\n      <div style={{ height: virtualizer.getTotalSize(), position: 'relative' }}>\n        {virtualizer.getVirtualItems().map((item) => (\n          <div key={item.key} style={{ position: 'absolute', top: 0, width: '100%', height: item.size, transform: 'translateY(' + item.start + 'px)' }}>\n            {rows[item.index].name}\n          </div>\n        ))}\n      </div>\n    </div>\n  )\n}\n```\n\n## 6. ما هو التجميع التلقائي (Automatic Batching)؟\nالتجميع يدمج عدة تحديثات للحالة في إعادة رسم واحدة. قبل React 18 كان ذلك يحدث فقط داخل معالجات أحداث React؛ أما التحديثات داخل الـ promises و `setTimeout` والمستمعين الأصليين فكان كل منها يسبب رسمًا منفصلًا. ومع `createRoot` (React 18 وما بعده) تُجمَّع كل التحديثات تلقائيًا أينما حدثت. وفي الحالات النادرة التي تحتاج فيها تحديث الـ DOM فورًا غلّف التحديث بـ `flushSync` من `react-dom`.\n\n```jsx\nsetTimeout(() => {\n  setCount((c) => c + 1)\n  setFlag((f) => !f)\n  // React 17: two renders. React 18+: one render.\n}, 1000)\n\nflushSync(() => setOpen(true)) // DOM is updated before the next line\ndialogRef.current.focus()\n```\n\n## 7. ما الذي لا تستطيع error boundaries التقاطه؟\nتلتقط error boundaries الأخطاء التي تحدث أثناء الرسم وفي دوال دورة الحياة وفي دوال البناء للمكوّنات التي تحتها. ولا تلتقط:\n- أخطاء معالجات الأحداث (استخدم `try/catch`)\n- الكود غير المتزامن مثل `setTimeout` والـ promises و callbacks الـ `fetch`، إلا إذا أعدت رمي الخطأ أثناء الرسم (مثلًا بحفظه في الحالة)\n- الأخطاء أثناء الرسم على الخادم (SSR)\n- الأخطاء التي تحدث داخل الـ error boundary نفسه\n\nضع الحدود حول المسارات والأجزاء المستقلة حتى لا يكسر خطأ واحد الصفحة كلها، وأرسل الأخطاء إلى أداة مثل Sentry.\n\n```jsx\nfunction SaveButton() {\n  const [error, setError] = useState(null)\n  if (error) throw error // now the nearest error boundary catches it\n  async function save() {\n    try { await api.save() } catch (err) { setError(err) }\n  }\n  return <button onClick={save}>Save</button>\n}\n```\n\n> بهذا يكتمل الجزء البرمجي. تدرّب على كل مهمة مع مؤقت واشرح اختياراتك بصوت عالٍ أثناء الكتابة."
+      },
+      "tags": [
+        "Interview",
+        "React",
+        "Coding"
+      ],
+      "date": "2026-10-09",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_rtl",
+      "slug": "building-bilingual-rtl-interfaces-react",
+      "title": {
+        "en": "Building bilingual Arabic/English (RTL) interfaces in React",
+        "ar": "بناء واجهات ثنائية اللغة عربي/إنجليزي (RTL) في React"
+      },
+      "excerpt": {
+        "en": "Five practical rules I follow to ship React apps that look right in both Arabic (RTL) and English.",
+        "ar": "خمس قواعد عملية أتبعها لإطلاق تطبيقات React تبدو صحيحة بالعربية (RTL) والإنجليزية."
+      },
+      "content": {
+        "en": "Most products I build at Naseej ship in Arabic and English. Supporting both is a layout problem, not a translation problem. Here is what works for me.\n\n## 1. Let the document own the direction\nSet `dir` and `lang` on the `<html>` element from a language context, and don't hard-code direction in components. Every flex row, grid and text block then flips automatically.\n\n## 2. Use logical properties\nReplace `margin-left` and `padding-right` with logical properties. In Tailwind that means `ms-*`, `me-*`, `ps-*`, `pe-*`, `start-*` and `end-*`:\n- `ms-4` instead of `ml-4`\n- `text-start` instead of `text-left`\n- `start-0` instead of `left-0`\n\n## 3. Mirror icons that show direction\nArrows and chevrons must flip in RTL, while logos and media controls must not. A `rtl:rotate-180` class on directional icons is usually enough.\n\n## 4. Keep code, numbers and URLs LTR\nWrap tech stacks, phone numbers, e-mails and code samples in `dir=\"ltr\"` so they don't get scrambled inside Arabic text.\n\n## 5. Pick fonts for both scripts\nUse a font stack with a good Arabic face (I like Cairo) so line heights and weights match between the two languages.\n\n> Test every screen in both directions before you call it done. RTL bugs are cheap to fix early and expensive to fix late.",
+        "ar": "معظم المنتجات التي أبنيها في نسيج تُطلق باللغتين العربية والإنجليزية. دعم اللغتين مشكلة تخطيط قبل أن يكون مشكلة ترجمة. إليك ما ينجح معي.\n\n## 1. اجعل المستند يتحكم في الاتجاه\nاضبط `dir` و `lang` على عنصر `<html>` من خلال Context للغة، ولا تكتب الاتجاه داخل المكونات. بعدها تنعكس الصفوف والشبكات والنصوص تلقائيًا.\n\n## 2. استخدم الخصائص المنطقية\nاستبدل `margin-left` و `padding-right` بالخصائص المنطقية. في Tailwind يعني ذلك `ms-*` و `me-*` و `ps-*` و `pe-*` و `start-*` و `end-*`:\n- `ms-4` بدلًا من `ml-4`\n- `text-start` بدلًا من `text-left`\n- `start-0` بدلًا من `left-0`\n\n## 3. اعكس الأيقونات التي تدل على اتجاه\nالأسهم يجب أن تنعكس في RTL، أما الشعارات وأزرار الوسائط فلا. غالبًا يكفي إضافة `rtl:rotate-180` للأيقونات الاتجاهية.\n\n## 4. أبقِ الأكواد والأرقام والروابط LTR\nضع التقنيات وأرقام الهواتف والبريد الإلكتروني وأمثلة الكود داخل `dir=\"ltr\"` حتى لا تختلط داخل النص العربي.\n\n## 5. اختر خطوطًا تناسب اللغتين\nاستخدم مجموعة خطوط تحتوي على خط عربي جيد (أفضّل Cairo) حتى تتطابق المسافات والأوزان بين اللغتين.\n\n> اختبر كل شاشة في الاتجاهين قبل اعتبارها منتهية؛ إصلاح أخطاء RTL مبكرًا رخيص، ومتأخرًا مكلف."
+      },
+      "tags": [
+        "React",
+        "RTL",
+        "CSS"
+      ],
+      "date": "2026-09-15",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_forms",
+      "slug": "react-19-forms",
+      "title": {
+        "en": "React 19 forms: useActionState, useFormStatus and useOptimistic",
+        "ar": "النماذج في React 19: useActionState و useFormStatus و useOptimistic"
+      },
+      "excerpt": {
+        "en": "How the new React 19 hooks remove most of the boilerplate around forms, pending states and optimistic UI.",
+        "ar": "كيف تزيل واجهات React 19 الجديدة معظم الكود المتكرر في النماذج وحالات الانتظار والواجهة التفاؤلية."
+      },
+      "content": {
+        "en": "React 19 makes forms much simpler. This portfolio's contact form, admin editors and chat widget all use the new APIs.\n\n## useActionState\nPass an async action and an initial state. React gives you the latest state, a form action and a pending flag:\n\n```tsx\nconst [state, formAction, isPending] = useActionState(async (prev, formData) => {\n  await save(formData)\n  return { ok: true }\n}, { ok: false })\n\nreturn <form action={formAction}>…</form>\n```\n\n## useFormStatus\nA submit button can read the status of its parent form, with no prop drilling:\n\n```tsx\nfunction SubmitButton() {\n  const { pending } = useFormStatus()\n  return <button disabled={pending}>{pending ? 'Sending…' : 'Send'}</button>\n}\n```\n\n## useOptimistic\nShow the result straight away, before the server answers. The chat widget adds the visitor's message to the list as soon as it's sent, and React swaps in the real state when the request finishes.\n\n## Takeaways\n- Fewer `useState` + `useEffect` pairs for loading and error state\n- Forms work with plain `FormData`\n- Pending UI is built in",
+        "ar": "يجعل React 19 النماذج أبسط بكثير. نموذج التواصل ومحررات لوحة التحكم والمساعد الذكي في هذا الموقع تستخدم كلها الواجهات الجديدة.\n\n## useActionState\nمرّر دالة async وحالة ابتدائية، وسيعطيك React آخر حالة ودالة للنموذج ومؤشر انتظار:\n\n```tsx\nconst [state, formAction, isPending] = useActionState(async (prev, formData) => {\n  await save(formData)\n  return { ok: true }\n}, { ok: false })\n\nreturn <form action={formAction}>…</form>\n```\n\n## useFormStatus\nيستطيع زر الإرسال قراءة حالة النموذج الأب مباشرة دون تمرير props:\n\n```tsx\nfunction SubmitButton() {\n  const { pending } = useFormStatus()\n  return <button disabled={pending}>{pending ? 'Sending…' : 'Send'}</button>\n}\n```\n\n## useOptimistic\nاعرض النتيجة فورًا قبل رد الخادم. يضيف المساعد الذكي رسالة الزائر إلى القائمة لحظة إرسالها، ثم يستبدلها React بالحالة الحقيقية عند انتهاء الطلب.\n\n## الخلاصة\n- عدد أقل من أزواج `useState` و `useEffect` لحالات التحميل والأخطاء\n- النماذج تعمل مع `FormData` مباشرة\n- واجهة الانتظار مدمجة"
+      },
+      "tags": [
+        "React",
+        "React 19"
+      ],
+      "date": "2026-08-20",
+      "cover": "",
+      "published": true
+    },
+    {
+      "id": "post_capacitor",
+      "slug": "web-to-mobile-with-capacitor",
+      "title": {
+        "en": "From web app to iOS & Android with Capacitor",
+        "ar": "من تطبيق ويب إلى iOS و Android باستخدام Capacitor"
+      },
+      "excerpt": {
+        "en": "Lessons from shipping white-labelled mobile apps from a single React code base.",
+        "ar": "دروس من إطلاق تطبيقات جوال بعلامات تجارية مخصصة من كود React واحد."
+      },
+      "content": {
+        "en": "For the Medad platform we delivered white-labelled iOS and Android apps from the same React code base as the web app, using Capacitor.\n\n## Why Capacitor\n- One React + TypeScript code base for web, iOS and Android\n- Native plugins (camera, push notifications, file system) behind a JavaScript API\n- The web team can ship mobile releases without learning a new framework\n\n## Things to plan for\n1. **Safe areas and the keyboard.** Use `env(safe-area-inset-*)` and test forms with the on-screen keyboard open.\n2. **Deep links and routing.** Use the same routes on web and mobile so links from notifications open the right screen.\n3. **White-labelling.** Keep each client's brand colours, icons and app IDs in configuration, not in code.\n4. **Performance.** Lazy-load routes and keep the first bundle small, because low-end Android devices are less forgiving than desktops.\n\n## When to choose React Native instead\nIf the app relies on heavy animations, complex gestures or deep native integrations, React Native is often the better fit. For content and form-heavy products, Capacitor gets you to the stores faster.",
+        "ar": "في منصة مداد قدّمنا تطبيقات iOS و Android بعلامات تجارية مخصصة من نفس كود React الخاص بتطبيق الويب باستخدام Capacitor.\n\n## لماذا Capacitor\n- كود واحد بـ React و TypeScript للويب و iOS و Android\n- إضافات أصلية (الكاميرا، الإشعارات، نظام الملفات) عبر واجهة JavaScript\n- يستطيع فريق الويب إصدار تطبيقات الجوال دون تعلم إطار عمل جديد\n\n## أمور يجب التخطيط لها\n1. **المناطق الآمنة ولوحة المفاتيح.** استخدم `env(safe-area-inset-*)` واختبر النماذج مع ظهور لوحة المفاتيح.\n2. **الروابط العميقة والتوجيه.** استخدم نفس المسارات في الويب والجوال حتى تفتح روابط الإشعارات الشاشة الصحيحة.\n3. **العلامات التجارية المخصصة.** احفظ ألوان كل عميل وأيقوناته ومعرّفات تطبيقه في الإعدادات وليس في الكود.\n4. **الأداء.** حمّل المسارات عند الحاجة وأبقِ الحزمة الأولى صغيرة، فأجهزة Android الضعيفة أقل تسامحًا من الحواسيب.\n\n## متى تختار React Native بدلًا منه\nإذا كان التطبيق يعتمد على رسوم متحركة كثيفة أو إيماءات معقدة أو تكامل أصلي عميق فغالبًا React Native هو الأنسب. أما المنتجات القائمة على المحتوى والنماذج فيوصلك Capacitor إلى المتاجر أسرع."
+      },
+      "tags": [
+        "Capacitor",
+        "Mobile",
+        "React"
+      ],
+      "date": "2026-07-10",
+      "cover": "",
+      "published": true
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq_work",
+      "question": {
+        "en": "What kind of work does Mohamed do?",
+        "ar": "ما نوع العمل الذي يقوم به محمد؟"
+      },
+      "answer": {
+        "en": "Front-end engineering: React.js and Next.js web apps, admin dashboards, bilingual Arabic (RTL) / English interfaces and mobile apps with React Native and Capacitor. He also builds REST APIs with Node.js and Express.js.",
+        "ar": "هندسة الواجهات الأمامية: تطبيقات ويب بـ React.js و Next.js، ولوحات تحكم، وواجهات ثنائية اللغة عربي (RTL) / إنجليزي، وتطبيقات جوال بـ React Native و Capacitor. كما يبني واجهات REST API باستخدام Node.js و Express.js."
+      }
+    },
+    {
+      "id": "faq_available",
+      "question": {
+        "en": "Is Mohamed available for new opportunities or freelance projects?",
+        "ar": "هل محمد متاح لفرص جديدة أو مشاريع عمل حر؟"
+      },
+      "answer": {
+        "en": "Yes, he is open to new opportunities. Send a message through the contact form or e-mail mohamed.sabry.ahmed000@gmail.com with a short description of the role or project.",
+        "ar": "نعم، هو منفتح على الفرص الجديدة. أرسل رسالة عبر نموذج التواصل أو على mohamed.sabry.ahmed000@gmail.com مع وصف مختصر للوظيفة أو المشروع."
+      }
+    },
+    {
+      "id": "faq_rtl",
+      "question": {
+        "en": "Does Mohamed build Arabic (RTL) websites?",
+        "ar": "هل يبني محمد مواقع باللغة العربية (RTL)؟"
+      },
+      "answer": {
+        "en": "Yes. Most of his products ship in Arabic and English, with full right-to-left (RTL) layouts, mirrored components and Arabic typography. This website is an example.",
+        "ar": "نعم. معظم منتجاته تُطلق بالعربية والإنجليزية مع تخطيط كامل من اليمين إلى اليسار (RTL) ومكونات معكوسة وخطوط عربية مناسبة، وهذا الموقع مثال على ذلك."
+      }
+    },
+    {
+      "id": "faq_stack",
+      "question": {
+        "en": "Which technologies does Mohamed use most?",
+        "ar": "ما التقنيات التي يستخدمها محمد أكثر؟"
+      },
+      "answer": {
+        "en": "React.js, TypeScript, Next.js, Redux and React Query, styled with Tailwind CSS, Less or Sass. On the back end he uses Node.js and Express.js with MySQL, MongoDB or SQL Server.",
+        "ar": "React.js و TypeScript و Next.js و Redux و React Query، مع Tailwind CSS أو Less أو Sass للتنسيق. وفي الخلفية يستخدم Node.js و Express.js مع MySQL أو MongoDB أو SQL Server."
+      }
+    },
+    {
+      "id": "faq_mobile",
+      "question": {
+        "en": "Can Mohamed build mobile apps?",
+        "ar": "هل يستطيع محمد بناء تطبيقات الجوال؟"
+      },
+      "answer": {
+        "en": "Yes. He built white-labelled iOS and Android apps for the Medad platform with Capacitor, and he also works with React Native.",
+        "ar": "نعم. بنى تطبيقات iOS و Android بعلامات تجارية مخصصة لمنصة مداد باستخدام Capacitor، كما يعمل بـ React Native."
+      }
+    },
+    {
+      "id": "faq_location",
+      "question": {
+        "en": "Where is Mohamed based?",
+        "ar": "أين يقيم محمد؟"
+      },
+      "answer": {
+        "en": "He is based in Cairo, Egypt, and has worked with teams and clients in Saudi Arabia, Kuwait and Egypt.",
+        "ar": "يقيم في القاهرة، مصر، وعمل مع فرق وعملاء في السعودية والكويت ومصر."
+      }
+    }
+  ],
+  "sections": {
+    "about": true,
+    "experience": true,
+    "projects": true,
+    "skills": true,
+    "education": true,
+    "certificates": true,
+    "blog": true,
+    "faq": true,
+    "contact": true
+  }
+}

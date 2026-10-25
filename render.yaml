@@ -1,0 +1,26 @@
+# Render Blueprint: https://render.com/docs/blueprint-spec
+services:
+  - type: web
+    name: mohamed-sabry-portfolio-api
+    runtime: node
+    plan: free
+    buildCommand: npm ci
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: MONGODB_URI
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_USERNAME
+        value: admin
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: CORS_ORIGINS
+        value: https://mohamedsabry000.github.io,http://localhost:5173
+      - key: SANITY_PROJECT_ID
+        value: rdln7m0z
+      - key: SANITY_DATASET
+        value: production
+      - key: OPENAI_API_KEY
+        sync: false
