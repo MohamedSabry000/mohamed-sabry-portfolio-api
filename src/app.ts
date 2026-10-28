@@ -37,13 +37,13 @@ app.use((req, res, next) => {
 })
 
 // Connect lazily so the same app works as a long-running server and as a serverless function.
-let dbReady: Promise<boolean> | undefined
+let pending: Promise<boolean> | undefined
+/** Runs on every request; concurrent requests share one connect/ping. */
 export function ensureDb() {
-  dbReady ??= connectDb(process.env.MONGODB_URI).then((ok) => {
-    if (!ok) dbReady = undefined
-    return ok
+  pending ??= connectDb(process.env.MONGODB_URI).finally(() => {
+    pending = undefined
   })
-  return dbReady
+  return pending
 }
 app.use(async (_req, _res, next) => {
   await ensureDb()

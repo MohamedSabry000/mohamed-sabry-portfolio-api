@@ -35,19 +35,34 @@ export const MessageModel = mongoose.model('Message', messageSchema)
 export const ChatLogModel = mongoose.model('ChatLog', chatLogSchema)
 export const AdminModel = mongoose.model('Admin', adminSchema)
 
-export const isDbConnected = () => mongoose.connection.readyState === 1
+let dbAvailable = false
+export const isDbConnected = () => dbAvailable
 
+/**
+ * Connects on first call; later calls are no-ops while the connection is up. On serverless hosts a frozen
+ * instance loses its sockets, so if the driver reports "disconnected" we ping to make it reconnect.
+ */
 export async function connectDb(uri: string | undefined) {
   if (!uri) return false
+  if (mongoose.connection.readyState === 1) return (dbAvailable = true)
   try {
+    if (mongoose.connection.db) {
+      try {
+        await mongoose.connection.db.admin().ping()
+        return (dbAvailable = true)
+      } catch {
+        await mongoose.disconnect().catch(() => undefined)
+      }
+    }
     await mongoose.connect(uri, { serverSelectionTimeoutMS: 10000 })
     await ensureAdmin()
     await seedPortfolioIfEmpty()
-    return true
+    dbAvailable = true
   } catch (error) {
+    dbAvailable = false
     console.error('MongoDB connection failed:', error instanceof Error ? error.message : error)
-    return false
   }
+  return dbAvailable
 }
 
 /** Creates the first admin account from ADMIN_USERNAME / ADMIN_PASSWORD (default admin / admin123). */
