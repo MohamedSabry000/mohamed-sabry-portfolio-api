@@ -40,7 +40,7 @@ export const isDbConnected = () => mongoose.connection.readyState === 1
 export async function connectDb(uri: string | undefined) {
   if (!uri) return false
   try {
-    await mongoose.connect(uri, { serverSelectionTimeoutMS: 5000 })
+    await mongoose.connect(uri, { serverSelectionTimeoutMS: 10000 })
     await ensureAdmin()
     await seedPortfolioIfEmpty()
     return true

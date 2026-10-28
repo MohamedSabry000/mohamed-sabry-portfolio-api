@@ -23,10 +23,11 @@ const ALLOWED_ORIGINS = (process.env.CORS_ORIGINS ?? 'https://mohamedsabry000.gi
 export const isAllowedOrigin = (origin: string) => ALLOWED_ORIGINS.some((pattern) => pattern.test(origin))
 
 app.use((req, res, next) => {
+  // Always vary on Origin so a CDN never serves a response cached for one origin to another.
+  res.setHeader('Vary', 'Origin')
   const origin = req.headers.origin
   if (origin && isAllowedOrigin(origin)) {
     res.setHeader('Access-Control-Allow-Origin', origin)
-    res.setHeader('Vary', 'Origin')
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization')
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, PUT, PATCH, DELETE, OPTIONS')
     res.setHeader('Access-Control-Max-Age', '86400')
@@ -68,7 +69,7 @@ app.get('/api/health', (_req, res) => {
 // Assistant settings + knowledge managed in Sanity (public, read-only).
 app.get('/api/assistant', async (_req, res) => {
   const content = await getAssistantContent()
-  res.setHeader('cache-control', 'public, max-age=30')
+  res.setHeader('cache-control', 'private, max-age=30')
   res.json({ ...content, logging: content.logging || isDbConnected() })
 })
 
