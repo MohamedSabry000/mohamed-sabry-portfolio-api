@@ -3,7 +3,8 @@ import { randomUUID } from 'node:crypto'
 import { Router, type Request, type Response } from 'express'
 import { isValidObjectId } from 'mongoose'
 import { login, requireAdmin, updateCredentials, type AuthedRequest } from './auth.js'
-import { ChatLogModel, isDbConnected, MessageModel } from './db.js'
+import { ChatLogModel, isDbConnected, MessageModel, MIN_PASSWORD_LENGTH } from './db.js'
+import { limits } from './rateLimit.js'
 import {
   deleteItem,
   getItem,
@@ -30,7 +31,7 @@ const text = (value: unknown, max: number) => String(value ?? '').trim().slice(0
 const isEmail = (value: string) => /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(value)
 
 // --- Auth ---
-api.post('/auth/login', requireDb, async (req, res) => {
+api.post('/auth/login', requireDb, limits.login, async (req, res) => {
   const token = await login(text(req.body?.username, 100), String(req.body?.password ?? ''))
   if (!token) return void res.status(401).json({ error: 'invalid_credentials' })
   res.json({ token })
@@ -41,13 +42,13 @@ api.get('/auth/me', requireAdmin, (req: AuthedRequest, res) => res.json({ userna
 api.put('/auth/credentials', requireDb, requireAdmin, async (req: AuthedRequest, res) => {
   const username = text(req.body?.username, 100)
   const password = String(req.body?.password ?? '')
-  if (!username || password.length < 6) return void res.status(400).json({ error: 'invalid' })
+  if (!username || password.length < MIN_PASSWORD_LENGTH) return void res.status(400).json({ error: 'invalid' })
   await updateCredentials(req.admin!.sub, username, password)
   res.status(204).end()
 })
 
 // --- Contact messages ---
-api.post('/messages', requireDb, async (req, res) => {
+api.post('/messages', requireDb, limits.messages, async (req, res) => {
   const message = {
     name: text(req.body?.name, 120),
     email: text(req.body?.email, 200),

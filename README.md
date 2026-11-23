@@ -36,11 +36,11 @@ Run the front end with `npm run dev` in the portfolio repo; its Vite dev server 
 | --- | --- | --- |
 | `MONGODB_URI` | yes | MongoDB connection string. Without it the content endpoints return `503` |
 | `JWT_SECRET` | yes in production | Long random string used to sign admin tokens |
-| `ADMIN_USERNAME` / `ADMIN_PASSWORD` | first start | Creates the first admin account (defaults `admin` / `admin123`, change it) |
+| `ADMIN_USERNAME` / `ADMIN_PASSWORD` | first start | Creates the first admin account when none exists. `ADMIN_PASSWORD` must be at least 12 characters; there is no default, so without it admin login stays closed |
 | `CORS_ORIGINS` | no | Comma-separated front-end origins (default `https://mohamedsabry000.github.io,http://localhost:5173`) |
 | `PORT` | no | Defaults to `8787` |
 | `OPENAI_API_KEY`, `OPENAI_MODEL`, `OPENAI_BASE_URL` | no | Enables AI answers; otherwise the front end uses its built-in engine |
-| `CHAT_RATE_LIMIT` | no | Chat requests per minute per IP (default 20) |
+| `CHAT_RATE_LIMIT` | no | AI chat (and chat-log) requests per 10 minutes per IP (default 40) |
 | `SANITY_PROJECT_ID`, `SANITY_DATASET` | no | Assistant content from Sanity (`rdln7m0z` / `production`) |
 | `SANITY_READ_TOKEN` / `SANITY_WRITE_TOKEN` | no | Read token for a private dataset; Editor token to save visitor chats to Sanity |
 | `SANITY_CACHE_SECONDS` | no | How long Sanity content is cached (default 60) |
@@ -123,7 +123,7 @@ The Express app runs as one Vercel function: `api/index.ts` exports the app from
 4. Deploy, then check `https://<api>.vercel.app/api/health` shows `"database": true`.
 5. In the front-end project set `VITE_API_URL=https://<api>.vercel.app` and redeploy it.
 
-The MongoDB connection is opened on the first request and reused while the function instance stays warm. The chat rate limit is in memory, so on Vercel it applies per instance.
+The MongoDB connection is opened on the first request and reused while the function instance stays warm. Rate limits are counted in MongoDB (`ratelimits` collection, expired windows removed by a TTL index), so they hold across all function instances: login 10 attempts / 15 min, contact form 5 messages / hour, chat `CHAT_RATE_LIMIT` / 10 min, per IP. If the database is unreachable they fall back to per-instance memory.
 
 ### Render / Railway
 

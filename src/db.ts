@@ -65,11 +65,20 @@ export async function connectDb(uri: string | undefined) {
   return dbAvailable
 }
 
-/** Creates the first admin account from ADMIN_USERNAME / ADMIN_PASSWORD (default admin / admin123). */
-async function ensureAdmin() {
+export const MIN_PASSWORD_LENGTH = 12
+
+/**
+ * Creates the first admin account from ADMIN_USERNAME / ADMIN_PASSWORD. There is no default password:
+ * without a strong ADMIN_PASSWORD no account is created and admin login stays closed.
+ */
+export async function ensureAdmin() {
   if (await AdminModel.estimatedDocumentCount()) return
   const username = process.env.ADMIN_USERNAME || 'admin'
-  const password = process.env.ADMIN_PASSWORD || 'admin123'
+  const password = process.env.ADMIN_PASSWORD ?? ''
+  if (password.length < MIN_PASSWORD_LENGTH) {
+    console.error(`No admin account exists. Set ADMIN_PASSWORD (at least ${MIN_PASSWORD_LENGTH} characters) to create one.`)
+    return
+  }
   await AdminModel.create({ username, passwordHash: await bcrypt.hash(password, 12) })
-  console.log(`Created admin user "${username}"${process.env.ADMIN_PASSWORD ? '' : ' with the default password — change it in the admin panel'}`)
+  console.log(`Created admin user "${username}"`)
 }

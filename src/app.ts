@@ -1,6 +1,7 @@
 import './env.js'
 import express from 'express'
 import { connectDb, isDbConnected } from './db.js'
+import { limits } from './rateLimit.js'
 import { api, saveChatLog } from './routes.js'
 import { buildSanityPrompt, getAssistantContent, logConversation, sanityStatus } from './sanity.js'
 
@@ -50,18 +51,6 @@ app.use(async (_req, _res, next) => {
   next()
 })
 
-// Basic per-IP rate limit to protect the API key.
-const WINDOW_MS = 10 * 60 * 1000
-const MAX_REQUESTS = Number(process.env.CHAT_RATE_LIMIT ?? 40)
-const hits = new Map<string, number[]>()
-function rateLimited(ip: string) {
-  const now = Date.now()
-  const recent = (hits.get(ip) ?? []).filter((time) => now - time < WINDOW_MS)
-  recent.push(now)
-  hits.set(ip, recent)
-  return recent.length > MAX_REQUESTS
-}
-
 app.get('/api/health', (_req, res) => {
   res.json({ ok: true, llm: Boolean(API_KEY), model: API_KEY ? MODEL : null, sanity: sanityStatus(), database: isDbConnected() })
 })
@@ -73,13 +62,9 @@ app.get('/api/assistant', async (_req, res) => {
   res.json({ ...content, logging: content.logging || isDbConnected() })
 })
 
-app.post('/api/chat/log', async (req, res) => {
+app.post('/api/chat/log', limits.chatLog, async (req, res) => {
   if (!sanityStatus().logging && !isDbConnected()) {
     res.status(204).end()
-    return
-  }
-  if (rateLimited(`log:${req.ip ?? 'unknown'}`)) {
-    res.status(429).json({ error: 'rate_limited' })
     return
   }
   const body = (req.body ?? {}) as Record<string, unknown>
@@ -110,13 +95,9 @@ interface ChatBody {
   messages?: Array<{ role: string; content: string }>
 }
 
-app.post('/api/chat', async (req, res) => {
+app.post('/api/chat', limits.chat, async (req, res) => {
   if (!API_KEY) {
     res.status(503).json({ error: 'not_configured' })
-    return
-  }
-  if (rateLimited(req.ip ?? 'unknown')) {
-    res.status(429).json({ error: 'rate_limited' })
     return
   }
   const { system = '', messages = [] } = (req.body ?? {}) as ChatBody
